@@ -1,0 +1,32 @@
+article h1 {
+	font-size: 4em;
+}
+
+article h2 {
+	font-size: 2em;
+	text-align: center;
+}
+
+article ul {
+	padding-left: 0;
+	padding-right: 0;
+	line-height: 2em;
+}
+
+article li {
+	/* Prevent publication date from running into link below. */
+	clear: both;
+}
+
+article ul time {
+	float: right;
+	color: hsl(0, 0%, 50%);
+}
+
+article ul time:before {
+	content: "(";
+}
+
+article ul time:after {
+	content: ")";
+}

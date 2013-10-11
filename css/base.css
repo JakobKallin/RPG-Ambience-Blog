@@ -1,0 +1,290 @@
+/* Defaults */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	font-weight: normal;
+}
+
+/* Layout */
+html {
+	height: 100%;
+}
+
+body {
+	min-height: 100%;
+	display: flex;
+	display: -webkit-flex;
+	flex-direction: column;
+	-webkit-flex-direction: column;
+}
+
+article {
+	flex: 1;
+	-webkit-flex: 1;
+}
+
+/* Styling */
+html {
+	background-color: black;
+	color: white;
+	font-family: Georgia, serif;
+	text-align: center;
+}
+
+header {
+	padding: 1em 2em;
+	background-image:
+		  -webkit-linear-gradient(left, black 0%, hsla(0, 0%, 0%, 0) 50%, black 100%)
+		, -webkit-linear-gradient(top, hsla(0, 100%, 100%, 0) 0%, hsla(0, 100%, 100%, 0.15) 100%)
+		, -webkit-linear-gradient(top, hsla(0, 100%, 100%, 0.35) 0%, hsla(0, 100%, 100%, 0.35) 100%)
+	;
+	background-image:
+		  -moz-linear-gradient(left, black 0%, hsla(0, 0%, 0%, 0) 50%, black 100%)
+		, -moz-linear-gradient(top, hsla(0, 100%, 100%, 0) 0%, hsla(0, 100%, 100%, 0.15) 100%)
+		, -moz-linear-gradient(top, hsla(0, 100%, 100%, 0.35) 0%, hsla(0, 100%, 100%, 0.35) 100%)
+	;
+	background-size:
+		  100% 100%
+		, 100% 100%
+		, 100% 0.0625em;
+	;
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	font-family: Constantia, Georgia, serif;
+	line-height: 2em;
+}
+	
+	header p {
+		display: inline;
+	}
+	
+	header > * + * {
+		margin-left: 0.5em;
+	}
+	
+	header p:first-child {
+		font-size: 1.5em;
+	}
+	
+	header p:nth-child(2) {
+		font-style: italic;
+		font-size: 1em;
+		color: hsl(0, 0%, 75%);
+	}
+	
+	header a {
+		color: inherit;
+		text-decoration: none;
+	}
+	
+	header a:hover {
+		text-decoration: underline;
+	}
+	
+	header a[href^='http://'] {
+		font-style: italic;
+		padding: 0.35em;
+		color: white;
+		white-space: nowrap;
+		border-radius: 0.1875rem;
+		border: 0.0625rem solid hsl(220, 50%, 50%);
+		background-color: hsl(220, 100%, 50%);
+		background-image: -webkit-linear-gradient(
+			top,
+			hsla(0, 0%, 0%, 0) 0%,
+			hsla(0, 0%, 0%, 0.5) 100%
+		);
+		background-image: -moz-linear-gradient(
+			top,
+			hsla(0, 0%, 0%, 0) 0%,
+			hsla(0, 0%, 0%, 0.5) 100%
+		);
+		text-shadow: 0.0625rem 0.0625rem 0.0625rem black;
+		box-shadow: 0 0 0.5em black;
+		text-decoration: none;
+	}
+	
+	header a[href^='http://']:hover {
+		background-color: hsl(220, 100%, 45%);
+	}
+	
+	header a[href^='http://']:before {
+		content: "» ";
+	}
+
+article {
+	background-image:
+		  -webkit-linear-gradient(left, black 0%, hsla(0, 0%, 0%, 0) 50%, black 100%)
+		, -webkit-linear-gradient(top, hsla(0, 100%, 100%, 0.20) 0%, hsla(0, 100%, 100%, 0) 100%)
+		, -webkit-linear-gradient(bottom, hsla(0, 100%, 100%, 0.15) 0%, hsla(0, 100%, 100%, 0) 100%)
+	;
+	background-image:
+		  -moz-linear-gradient(left, black 0%, hsla(0, 0%, 0%, 0) 50%, black 100%)
+		, -moz-linear-gradient(top, hsla(0, 100%, 100%, 0.20) 0%, hsla(0, 100%, 100%, 0) 100%)
+		, -moz-linear-gradient(bottom, hsla(0, 100%, 100%, 0.15) 0%, hsla(0, 100%, 100%, 0) 100%)
+	;
+	background-size: 100% 100%, 100% 20em, 100% 20em;
+	background-repeat: no-repeat;
+	background-position: center top, center top, center bottom;
+	text-align: left;
+	padding: 2em;
+	padding-top: 3em;
+	color: hsl(0, 0%, 85%);
+}
+	
+	article h1 {
+		font-size: 2.5em;
+		line-height: 1em;
+		text-align: center;
+	}
+	
+	article h1, article h2, article h3, article p, article ol, article ul, article figure {
+		max-width: 40rem;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	article h1, article h2, article h3 {
+		font-family: Constantia, Georgia, serif;
+		color: white;
+	}
+	
+	article h2 {
+		font-size: 1.5em;
+		margin-top: 1.5em;
+	}
+	
+	article h3 {
+		font-size: 1.25em;
+		margin-top: 1.5em;
+		font-style: italic;
+	}
+	
+	article p, article ol, article ul {
+		margin-top: 1em;
+		margin-bottom: 1em;
+		line-height: 1.5em;
+	}
+	
+	article ol, article ul {
+		padding-left: 3em;
+		padding-right: 3em;
+	}
+	
+	article p.publication-date {
+		text-align: center;
+		font-size: 0.875em;
+		font-style: italic;
+		color: hsl(0, 0%, 50%);
+		margin-top: 1.5rem;
+		margin-bottom: 1.5rem;
+		border-top: 1px solid hsl(0, 0%, 15%);
+		border-bottom: 1px solid hsl(0, 0%, 15%);
+		padding-top: 0.5em;
+		padding-bottom: 0.5em;
+	}
+	
+	article a {
+		color: hsl(200, 100%, 50%);
+	}
+	
+	article a:visited {
+		color: hsl(300, 50%, 50%);
+	}
+	
+	article figure {
+		margin-top: 1.5em;
+		margin-bottom: 1.5em;
+	}
+	
+	article figure img {
+		display: block;
+		width: 15em;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	article p.appendix {
+		font-style: italic;
+		color: hsl(0, 0%, 50%);
+	}
+	
+	article p.appendix:before {
+		display: block;
+		margin-top: 2rem;
+		margin-bottom: 2rem;
+		content: "❦";
+		text-align: center;
+		font-size: 2rem;
+		font-style: normal;
+		color: hsl(0, 0%, 35%);
+	}
+	
+	article span.category, article span.title {
+		display: block;
+	}
+	
+	article span.category {
+		font-size: 0.5em;
+		color: hsl(0, 0%, 50%);
+		text-transform: uppercase;
+	}
+	
+	article div.side-by-side {
+		text-align: center;
+	}
+	
+	article div.side-by-side > * {
+		display: inline-block;
+	}
+	
+	article div.side-by-side figure {
+		margin: 0 1em;
+	}
+	
+	article div.side-by-side figure > * {
+		display: block;
+		margin-top: 1em;
+		margin-bottom: 1em;
+	}
+	
+	article figcaption {
+		font-style: italic;
+		color: hsl(0, 0%, 50%);
+	}
+
+footer {
+	height: 4em;
+	background-image:
+		  -webkit-linear-gradient(left, black 0%, hsla(0, 0%, 0%, 0) 50%, black 100%)
+		, -webkit-linear-gradient(bottom, hsla(0, 100%, 100%, 0) 0%, hsla(0, 100%, 100%, 0.20) 100%)
+		, -webkit-linear-gradient(top, hsla(0, 100%, 100%, 0.35) 0%, hsla(0, 100%, 100%, 0.35) 100%)
+	;
+	background-image:
+		  -moz-linear-gradient(left, black 0%, hsla(0, 0%, 0%, 0) 50%, black 100%)
+		, -moz-linear-gradient(bottom, hsla(0, 100%, 100%, 0) 0%, hsla(0, 100%, 100%, 0.20) 100%)
+		, -moz-linear-gradient(top, hsla(0, 100%, 100%, 0.35) 0%, hsla(0, 100%, 100%, 0.35) 100%)
+	;
+	background-size:
+		  100% 100%
+		, 100% 100%
+		, 100% 0.0625em;
+	;
+	background-repeat: no-repeat;
+	background-position: center top;
+	line-height: 4em;
+}
+	
+	footer li {
+		display: inline;
+	}
+	
+	footer li + li {
+		margin-left: 1em;
+	}
+	
+	footer a {
+		color: hsl(200, 100%, 50%);
+	}
