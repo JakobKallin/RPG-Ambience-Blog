@@ -10,6 +10,7 @@
 /* Layout */
 html {
 	height: 100%;
+	overflow-y: scroll;
 }
 
 body {
@@ -61,7 +62,7 @@ header {
 	}
 	
 	header > * + * {
-		margin-left: 0.5em;
+		margin-left: 1em;
 	}
 	
 	header p:first-child {
@@ -201,12 +202,18 @@ article {
 	
 	article figure img {
 		display: block;
-		width: 15em;
+		height: 15em;
 		margin-left: auto;
 		margin-right: auto;
 	}
 	
+	article figure img.wide {
+		width: 100%;
+		height: auto;
+	}
+	
 	article p.appendix {
+		text-align: center;
 		font-style: italic;
 		color: hsl(0, 0%, 50%);
 	}
@@ -222,11 +229,11 @@ article {
 		color: hsl(0, 0%, 35%);
 	}
 	
-	article span.category, article span.title {
+	h1 span.category, h1 span.title {
 		display: block;
 	}
 	
-	article span.category {
+	h1  span.category {
 		font-size: 0.5em;
 		color: hsl(0, 0%, 50%);
 		text-transform: uppercase;
