@@ -27,6 +27,8 @@ function xslt(stylesheet, source, destination, params) {
 		command += ' ' + key + '=' + value;
 	}
 	
+	// We don't want whitespace between some nodes, so make sure there is no indentation.
+	command += ' !indent=no';
 	command += ' !include-content-type=no';
 	
 	console.log(command);
