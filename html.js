@@ -27,7 +27,6 @@ function xslt(stylesheet, source, destination, params) {
 		command += ' ' + key + '=' + value;
 	}
 	
-	command += ' !indent=no';
 	command += ' !include-content-type=no';
 	
 	console.log(command);

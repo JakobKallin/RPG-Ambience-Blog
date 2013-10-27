@@ -9,7 +9,7 @@
 		<xsl:param name="content"/>
 		<xsl:param name="stylesheets"/>
 		
-		<xsl:text disable-output-escaping="yes">&lt;!doctype html&gt;</xsl:text>
+		<xsl:text disable-output-escaping="yes">&lt;!doctype html&gt;&#xa;</xsl:text>
 		<html>
 			<head>
 				<meta charset="utf-8"/>

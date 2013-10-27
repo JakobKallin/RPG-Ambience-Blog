@@ -12,7 +12,8 @@
 	<xsl:template match="post">
 		<xsl:call-template name="blog">
 			<xsl:with-param name="head-title">
-				<xsl:call-template name="heading"/> | RPG Ambience Blog
+				<xsl:call-template name="heading"/>
+				<xsl:text> | RPG Ambience Blog</xsl:text>
 			</xsl:with-param>
 			<xsl:with-param name="body-title">
 				<xsl:call-template name="heading"/>
