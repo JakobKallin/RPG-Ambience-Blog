@@ -15,6 +15,7 @@
 				<meta charset="utf-8"/>
 				<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/>
 				<title><xsl:value-of select="$head-title"/></title>
+				<meta name="description" content="Advice on bringing your games to life with the RPG Ambience media player."/>
 				<link rel="stylesheet" href="/css/base.css"/>
 				<xsl:if test="$stylesheets">
 					<xsl:for-each select="$stylesheets/stylesheet">
