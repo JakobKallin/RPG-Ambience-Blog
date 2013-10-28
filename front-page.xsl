@@ -15,10 +15,9 @@
 				<ul>
 					<xsl:for-each select="post">
 						<xsl:sort select="@date" order="descending"/>
-						<xsl:sort select="title" order="ascending"/>
 						<li>
 							<a href="{@category}/{@slug}/"><xsl:call-template name="heading"/></a>
-							<time datetime="{@date}"><xsl:value-of select="format-date(@date, '[MNn] [D1o], [Y]')"/></time>
+							<time datetime="{@date}"><xsl:value-of select="format-dateTime(@date, '[MNn] [D1o], [Y]')"/></time>
 						</li>
 					</xsl:for-each>
 				</ul>

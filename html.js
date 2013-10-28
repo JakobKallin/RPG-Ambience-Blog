@@ -12,6 +12,7 @@ exec(SAXON_PATH + ' -s:blog.xml -xsl:files.xsl', function(error, stdout, stderr)
 });
 
 xslt('front-page.xsl', 'blog.xml', 'index.html');
+xslt('atom.xsl', 'blog.xml', 'feed.atom', { timestamp: (new Date()).toISOString() });
 
 function xslt(stylesheet, source, destination, params) {
 	params = params || {};

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <blog>
-	<post slug="emotional-music" category="articles" date="2013-10-26">
+	<post slug="emotional-music" category="articles" date="2013-10-26T20:00:00.000Z">
 		<title>Using emotional music to make an impact</title>
 		<content>
 			<figure>
@@ -24,7 +24,7 @@
 			<p class="appendix"><a href="mailto:rpg.ambience@gmail.com">Send in your thoughts</a> about using emotional music and your comments might be featured in the article.</p>
 		</content>
 	</post>
-	<post slug="jade-empire" category="music" date="2013-10-10">
+	<post slug="jade-empire" category="music" date="2013-10-10T21:00:00.000Z">
 		<title><i>Jade Empire</i> (oriental)</title>
 		<content>
 			<figure class="cover-art">
@@ -83,7 +83,7 @@
 			</ol>
 		</content>
 	</post>
-	<post slug="pre-and-post-game-music" category="articles" date="2013-10-10">
+	<post slug="pre-and-post-game-music" category="articles" date="2013-10-10T20:00:00.000Z">
 		<title>Enhancing sessions with pre- and post-game music</title>
 		<content>
 			<figure>
@@ -115,7 +115,7 @@
 			<p class="appendix"><a href="mailto:rpg.ambience@gmail.com">Send in your thoughts</a> about using pre- and post-game music and your comments might be featured in the article.</p>
 		</content>
 	</post>
-	<post slug="overlap" category="articles" date="2013-10-10">
+	<post slug="overlap" category="articles" date="2013-10-10T22:00:00.000Z">
 		<title>Achieving near-seamless audio loops with the overlap feature</title>
 		<content>
 			<p>An important feature for GMs who use music during their games is the ability to have it loop without interruptions and jarring transitions. When I first started developing RPG Ambience, my intent was to achieve this by implementing seamless looping of tracks. I quickly encountered two major problems:</p>

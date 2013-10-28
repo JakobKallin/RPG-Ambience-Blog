@@ -22,7 +22,7 @@
 				<p class="publication-date">
 					<xsl:text>Published on </xsl:text>
 					<time datetime="{@date}">
-						<xsl:value-of select="format-date(@date, '[MNn] [D1o], [Y]')"/>
+						<xsl:value-of select="format-dateTime(@date, '[MNn] [D1o], [Y]')"/>
 					</time>
 				</p>
 				<xsl:apply-templates select="content/node()"/>
