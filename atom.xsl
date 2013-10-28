@@ -23,7 +23,7 @@
 				<xsl:sort select="@date" order="descending"/>
 				<xsl:sort select="title" order="ascending"/>
 				
-				<xsl:variable name="url" select="string-join(('http://blog.rpg-ambience.org', @category, @slug, ''), '/')"/>
+				<xsl:variable name="url" select="string-join(('http://blog.rpg-ambience.com', @category, @slug, ''), '/')"/>
 				<entry>
 					<title><xsl:value-of select="title"/></title>
 					<id><xsl:value-of select="$url"/></id>
