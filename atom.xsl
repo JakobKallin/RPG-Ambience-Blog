@@ -8,7 +8,7 @@
 			<id>http://blog.rpg-ambience.com/</id>
 			<updated><xsl:value-of select="$timestamp"/></updated>
 			
-			<link rel="self" href="http://blog.rpg-ambience.com/feed.atom"/>
+			<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 			<link rel="related" href="http://blog.rpg-ambience.com/"/>
 			
 			<author>
