@@ -38,6 +38,7 @@
 					<ul>
 						<li><a href="/#about">About</a></li>
 						<li><a href="mailto:rpg.ambience@gmail.com">Contact</a></li>
+						<li><a href="/atom.xml">Feed</a></li>
 					</ul>
 				</footer>
 			</body>
