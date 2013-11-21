@@ -58,7 +58,7 @@ header {
 }
 	
 	header p {
-		display: inline;
+		display: inline-block;
 	}
 	
 	header > * + * {
