@@ -5,6 +5,16 @@
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	font-weight: normal;
+	font-style: normal;
+}
+
+cite {
+	font-style: italic;
+}
+
+q[title] {
+	cursor: help;
+	border-bottom: 1px dotted hsl(0, 0%, 50%);
 }
 
 /* Layout */

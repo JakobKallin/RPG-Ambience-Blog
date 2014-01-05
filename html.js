@@ -1,5 +1,5 @@
 var exec = require('child_process').exec;
-const SAXON_PATH = 'D:\\Saxon\\bin\\Transform.exe';
+const SAXON_PATH = process.argv[2];
 
 exec(SAXON_PATH + ' -s:blog.xml -xsl:files.xsl', function(error, stdout, stderr) {
 	var paths = stdout.split('\n');
