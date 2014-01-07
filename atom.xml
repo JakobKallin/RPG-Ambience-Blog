@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-01-06T23:53:57.515Z</updated>
+	<updated>2014-01-07T12:04:07.817Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -47,7 +47,7 @@
 		</content>
 		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/artwork-driven-adventures/"/>
 	</entry><entry>
-		<title>Baldur's Gate (fantasy)</title>
+		<title>Music recommendation: Baldur's Gate (fantasy)</title>
 		<id>http://blog.rpg-ambience.com/music/baldurs-gate/</id>
 		<updated>2013-11-21T20:00:00.000Z</updated>
 		<content type="xhtml">
@@ -163,7 +163,7 @@
 		</content>
 		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/emotional-music/"/>
 	</entry><entry>
-		<title>Jade Empire (oriental)</title>
+		<title>Music recommendation: Jade Empire (oriental)</title>
 		<id>http://blog.rpg-ambience.com/music/jade-empire/</id>
 		<updated>2013-10-10T21:00:00.000Z</updated>
 		<content type="xhtml">
