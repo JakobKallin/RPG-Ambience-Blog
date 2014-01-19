@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-01-07T12:04:07.817Z</updated>
+	<updated>2014-01-19T23:06:32.874Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,22 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>The status of RPG Ambience in 2014</title>
+		<id>http://blog.rpg-ambience.com/articles/2014-status/</id>
+		<updated>2014-01-19T20:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<p>At this point, RPG Ambience is fairly complete for the features that it offers. While there are several tweaks to be made to the current version, it is fully functional; I've used the current set of features in all of my games for the last few months without major problems.</p>
+				
+				<p>Even then, there are features planned that haven't yet been implemented, such as <a href="https://github.com/JakobKallin/RPG-Ambience/issues/30">scripting</a> and <a href="https://github.com/JakobKallin/RPG-Ambience/issues/31">animations</a>. At this point, further development of RPG Ambience will be unpredictable and likely slow because I'm both working and writing my master's thesis this semester. In all likelihood, this means that major tweaks or new features will be on hold for at least half a year.</p>
+				
+				<p>That being said, some development is still possible. In particular, smaller changes or additions that are of considerable value could be added, especially if specific requests are made. An example of such a feature is <a href="https://github.com/JakobKallin/RPG-Ambience/issues/38">crossfading</a>, which was requested by a user and eventually implemented with relatively little work. If you have suggestions for features like this that would make RPG Ambience more valuable to you, do not hesitate to <a href="rpg.ambience@gmail.com">send an email</a> or <a href="https://github.com/JakobKallin/RPG-Ambience/issues">post an issue</a>.</p>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/2014-status/"/>
+	</entry><entry>
 		<title>Artwork-driven adventure design</title>
 		<id>http://blog.rpg-ambience.com/articles/artwork-driven-adventures/</id>
 		<updated>2014-01-05T20:00:00.000Z</updated>
@@ -57,13 +73,13 @@
 					<img src="/media/baldurs-gate.jpg" alt="Cover art for the Baldur's Gate soundtrack" />
 				</figure>
 				
-				<p>It's impossible for me to be impartial when reviewing the soundtrack that first got me started using music in tabletop roleplaying games. Luckily, a blog like this does not have to adhere to any sort of journalistic standards, so what follows is my completely biased recommendation of the <i>Baldur's Gate</i> soundtrack.</p>
+				<p>It's impossible for me to be impartial when reviewing the soundtrack that first got me started using music in tabletop roleplaying games. Luckily, a blog like this does not have to adhere to any sort of journalistic standards, so what follows is my completely biased recommendation of the <cite>Baldur's Gate</cite> soundtrack.</p>
 				
-				<p>To many video gamers, <i>Baldur's Gate</i> remains the gold standard against which all other RPG video games are measured. The same could be said of its soundtrack. While many soundtracks that came after it, including that of the sequel <i>Shadows of Amn</i>, may well be more interesting from a purely artistic point of view, few soundtracks are as immediately useful to tabletop roleplayers as this one.</p>
+				<p>To many video gamers, <cite>Baldur's Gate</cite> remains the gold standard against which all other RPG video games are measured. The same could be said of its soundtrack. While many soundtracks that came after it, including that of the sequel <cite>Shadows of Amn</cite>, may well be more interesting from a purely artistic point of view, few soundtracks are as immediately useful to tabletop roleplayers as this one.</p>
 				
 				<p>The tracklist covers almost every common theme that a typical fantasy campaign will need. Most tracks have titles that clearly communicate their mood and tempo, and nearly all of them are uniform enough to be useful without editing.</p>
 				
-				<p>Although not apparent at first, a leitmotif for the entire game recurs in several tracks, both calm and dramatic. To players who spent a lot of time with <i>Baldur's Gate</i>, this melody provides a unique connection to the Forgotten Realms and the Sword Coast in particular, which could be either a great benefit or a drawback depending on which type of game you are running. To players who don't recognize the theme to begin with but pick it up during your sessions, it may well become a trademark theme that they will forever associate with your campaign.</p>
+				<p>Although not apparent at first, a leitmotif for the entire game recurs in several tracks, both calm and dramatic. To players who spent a lot of time with <cite>Baldur's Gate</cite>, this melody provides a unique connection to the Forgotten Realms and the Sword Coast in particular, which could be either a great benefit or a drawback depending on which type of game you are running. To players who don't recognize the theme to begin with but pick it up during your sessions, it may well become a trademark theme that they will forever associate with your campaign.</p>
 				
 				<h2>Suggested scenes</h2>
 				
@@ -143,15 +159,15 @@
 					<img src="/media/binary-sunset.jpg" alt="The &quot;Binary Sunset&quot; scene in Star Wars: A New Hope" class="wide" />
 				</figure>
 
-				<p>As roleplayers, we are used to adventures that focus on violent conflict and stressful situations. Movies and books, however, generally put much more emphasis on human emotion than traditional roleplaying games. Even adventure movies like <i>Star Wars</i> devote entire scenes to the thoughts and feelings of the characters. Gamemasters who want to incorporate the same type of scenes in their games can benefit immensely from emotional music.</p>
+				<p>As roleplayers, we are used to adventures that focus on violent conflict and stressful situations. Movies and books, however, generally put much more emphasis on human emotion than traditional roleplaying games. Even adventure movies like <cite>Star Wars</cite> devote entire scenes to the thoughts and feelings of the characters. Gamemasters who want to incorporate the same type of scenes in their games can benefit immensely from emotional music.</p>
 
-				<p>In this context, emotional music refers to the type of music that plays in a movie or game when the characters' feelings, rather than their actions, are in focus. These feelings can be anything from sadness and despair to love and relief. Two common traits of such music are a lower tempo and the use of certain instruments like the violin and the piano. Notable examples include "Binary Sunset" from <i>Star Wars: A New Hope</i> and the opening theme to <i>The Rock</i>.</p>
+				<p>In this context, emotional music refers to the type of music that plays in a movie or game when the characters' feelings, rather than their actions, are in focus. These feelings can be anything from sadness and despair to love and relief. Two common traits of such music are a lower tempo and the use of certain instruments like the violin and the piano. Notable examples include "Binary Sunset" from <cite>Star Wars: A New Hope</cite> and the opening theme to <cite>The Rock</cite>.</p>
 
 				<p>Emotional music requires special attention because emotional scenes, as mentioned earlier, are an unexpected part of adventures for many roleplayers. Merely describing an emotional situation is not guaranteed to evoke emotion among the players in the way that simply rolling for initiative will evoke an instinctive feeling of excitement. Likewise, merely playing emotional music will not necessarily have the same effect as playing action music. In a game where emotional scenes are rare, the combination of emotional narration and emotional music can be crucial in properly setting the mood.</p>
 
-				<p>A good example is a recent session of <i>Fiasco</i>, which primarily consisted of action scenes interspersed with dialogue and investigation. In <i>Fiasco</i>, which embraces dark humor, players often react to tragic fates with indifference or even amusement. This is especially true in the very last montage scene of a session, where characters usually face disaster and tragedy of some sort. For this particular session, however, I had decided to experiment with my usual repertoire of calm, suspenseful, and stressful music by adding emotional music to the mix.</p>
+				<p>A good example is a recent session of <cite>Fiasco</cite>, which primarily consisted of action scenes interspersed with dialogue and investigation. In <cite>Fiasco</cite>, which embraces dark humor, players often react to tragic fates with indifference or even amusement. This is especially true in the very last montage scene of a session, where characters usually face disaster and tragedy of some sort. For this particular session, however, I had decided to experiment with my usual repertoire of calm, suspenseful, and stressful music by adding emotional music to the mix.</p>
 
-				<p>When the time came for the characters to meet their grim ends, we started the emotional music—and something changed. Instead of simply thinking that the characters got what they deserved or even being amused by their failure, we found ourselves feeling sympathy for them—even for those who were clearly villains in the story. If this is the level of emotion that can be achieved in a morally ambiguous setting like <i>Fiasco</i>, it is easy to imagine how powerful emotional music can be in the epic tales of good and evil that are common in other roleplaying games.</p>
+				<p>When the time came for the characters to meet their grim ends, we started the emotional music—and something changed. Instead of simply thinking that the characters got what they deserved or even being amused by their failure, we found ourselves feeling sympathy for them—even for those who were clearly villains in the story. If this is the level of emotion that can be achieved in a morally ambiguous setting like <cite>Fiasco</cite>, it is easy to imagine how powerful emotional music can be in the epic tales of good and evil that are common in other roleplaying games.</p>
 
 				<p>Apart from conveying emotion in a scene that has already started, emotional music can also be used for setting expectations of a scene to come. If the gamemaster plays emotional music while the characters are exploring the debris of a burned-down village, the players are much more likely to contemplate the tragedy of what has happened than watch for hidden enemies or search for loot.</p>
 
@@ -173,7 +189,7 @@
 					<img src="/media/jade-empire.jpg" alt="Cover art for the Jade Empire soundtrack" />
 				</figure>
 				
-				<p>While the soundtrack of <i>Jade Empire</i> is sadly one of few readily available soundtracks from games with an oriental setting, it's useful enough that it might just be the only one you need. The calmer tracks draw heavily from Chinese aesthetics while the most dramatic tracks are closer to traditional orchestral arrangements. There are 31 tracks in total, and many of them are uniform enough to be useful without any editing.</p>
+				<p>While the soundtrack of <cite>Jade Empire</cite> is sadly one of few readily available soundtracks from games with an oriental setting, it's useful enough that it might just be the only one you need. The calmer tracks draw heavily from Chinese aesthetics while the most dramatic tracks are closer to traditional orchestral arrangements. There are 31 tracks in total, and many of them are uniform enough to be useful without any editing.</p>
 				
 				<h2>Suggested scenes</h2>
 				
@@ -252,11 +268,11 @@
 				
 				<p>For pre-game music, suitable tracks include epic opening themes, menu music from video games, and tracks that are too varying in tempo or mood to use during the adventure itself.</p>
 				
-				<p>As an example, consider the first distinct piece of music that plays in the <i>Knights of the Old Republic</i> video game. The famous <i>Star Wars</i> opening theme doesn't actually appear until after the player has created his character; during the entire character creation process, the music played is the theme of the Old Republic. This epic composition is too anthemic to easily fit inside an adventure, yet not powerful enough to serve as the adventure's opening theme (which in any <i>Star Wars</i> game is a given). As pre-game music, however, it works perfectly to give the players a sense of epic adventure coupled with the uniquely ancient feel that accompanies games set in this era.</p>
+				<p>As an example, consider the first distinct piece of music that plays in the <cite>Knights of the Old Republic</cite> video game. The famous <cite>Star Wars</cite> opening theme doesn't actually appear until after the player has created his character; during the entire character creation process, the music played is the theme of the Old Republic. This epic composition is too anthemic to easily fit inside an adventure, yet not powerful enough to serve as the adventure's opening theme (which in any <cite>Star Wars</cite> game is a given). As pre-game music, however, it works perfectly to give the players a sense of epic adventure coupled with the uniquely ancient feel that accompanies games set in this era.</p>
 				
 				<p>For post-game music, you have even more leeway in selecting your tracks, because you don't risk setting the wrong tone for an entire session. Unless your campaign is of a very serious nature, you can even consider using humorous, silly, or even modern-day tracks that tie into the story that you were telling.</p>
 				
-				<p>For a recent one-shot game <a href="http://www.bullypulpitgames.com/news/2011/03/01/march-playset-of-the-month-quest-for-the-golden-panda/">set in mythical China</a>, I ended the session with the well-known '70s song "Kung Fu Fighting" by Carl Douglas, also notably used in the movie <i>Kung Fu Panda</i>. It's light-hearted, anachronistic, and downright silly, and using it in-game would have ruined the mood, but playing it after the adventure made perfect sense. If you're not prepared to go that far, look for setting-appropriate music that reinforces the overall experience of the players, such as an upbeat orchestral composition for a session that saw the characters prevail in an epic battle.</p>
+				<p>For a recent one-shot game <a href="http://www.bullypulpitgames.com/news/2011/03/01/march-playset-of-the-month-quest-for-the-golden-panda/">set in mythical China</a>, I ended the session with the well-known '70s song "Kung Fu Fighting" by Carl Douglas, also notably used in the movie <cite>Kung Fu Panda</cite>. It's light-hearted, anachronistic, and downright silly, and using it in-game would have ruined the mood, but playing it after the adventure made perfect sense. If you're not prepared to go that far, look for setting-appropriate music that reinforces the overall experience of the players, such as an upbeat orchestral composition for a session that saw the characters prevail in an epic battle.</p>
 
 				<p>Even if you put a lot of effort into selecting pre- and post-game music, it may not make an obvious difference at the gaming table itself. That's alright, because the main goal of using pre- and post-music is to affect players subtly, or even subconsciously. If the players start to find themselves feeling that the gaming experience starts as soon as they enter the gaming room, and only ends just after they have left it, you're doing things right.</p>
 

@@ -1,3 +1,72 @@
 <!doctype html>
-<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><title>Achieving near-seamless audio loops with the overlap feature | RPG Ambience Blog</title><meta name="description" content="Advice on bringing your games to life with the RPG Ambience media player."><link rel="stylesheet" href="/css/base.css"><link rel="icon" type="image/png" href="http://rpg-ambience.com/images/icon.png"></head><body><header><p><a href="/">RPG Ambience Blog</a></p><p><a href="/">Advice on bringing your games to life with the RPG Ambience media player</a></p><p><a href="http://rpg-ambience.com/">Try RPG Ambience</a></p></header><article><h1><span class="title">Achieving near-seamless audio loops with the overlap feature</span></h1><p class="publication-date">Published on <time datetime="2013-10-10T22:00:00.000Z">October 10th, 2013</time></p><p>An important feature for GMs who use music during their games is the ability to have it loop without interruptions and jarring transitions. When I first started developing RPG Ambience, my intent was to achieve this by implementing seamless looping of tracks. I quickly encountered two major problems:</p><ol><li>First of all, completely seamless looping of audio files does not have good browser support (if any).</li><li>Second of all, and most importantly, very few music tracks have endings that line up with the beginning, making the transition very noticeable even when it's made seamless.</li></ol><p>With this in mind, I began considering an alternative to seamless looping that is available in some media players: crossfading, which is achieved by fading out the old track while simultaneously fading in the new one. I was optimistic that this approach would be the best and most realistic alternative to truly seamless looping. After manually trying the technique on some tracks, however, I was not completely satisfied; the transition was still very much noticeable for many tracks.</p><p>After a while, I started experimenting with what I at first thought to be a "poor man's" crossfading: to simply have the new track start a bit before the old track ended, without fading either of them. In earlier versions of RPG Ambience, this was called <dfn>crossover</dfn>, but it has since been renamed <dfn>overlap</dfn>. This turned out to be a very useful technique that consistently matched the quality of crossfading and often exceeded it, many times even achieving unnoticeable transitions.</p><p>The two waveforms below show the difference between an audio loop using crossfading and one using overlap:</p><div class="side-by-side"><figure><figcaption>Crossfading</figcaption><img src="/media/crossfading.png" alt="Waveform of a sample transition using crossfading"><audio src="/media/crossfading.ogg" controls=""></audio></figure><!--
-				--><figure><figcaption>Overlap</figcaption><img src="/media/overlap.png" alt="Waveform of a sample transition using overlap"><audio src="/media/overlap.ogg" controls=""></audio></figure></div><p>While the loop using crossfading sounds alright, there is still a noticeable gap between the end of the old track and the beginning of the new track, and the distinct opening drum beat is lost in the fading. The loop using overlap, on the other hand, continues playing the song without even skipping a beat, and retains the opening drum beat.</p><h2>How to use overlap in RPG Ambience</h2><p>This brings us to the implementation of overlap in RPG Ambience. In order to make your audio tracks loop using overlap, go to the <i>Sound</i> tab of a scene and look for the <i>Overlap</i> field at the bottom. This input controls how many seconds early the new track will start before the old track ends. Fractional numbers are allowed, but note that very short durations may not work as intended; due to technical limitations, a value of less than roughly 0.3 might effectively be rounded down to zero.</p><p>It's important to note that the <i>Overlap</i> setting in the current version of RPG Ambience applies to all track transitions for that scene. In other words, it's not currently possible to specify that one track should start three seconds early and another track should start five seconds early. I have thought about expanding this functionality in the future, but in absence of such a feature, my experience tells me that a blanket overlap duration of about 2-5 seconds is usually enough to achieve a pretty good result.</p><p>One final note: If the overlap doesn't seem to take effect properly, make sure that your audio files don't begin or end with long silences, as some recordings do. A sound editor like <a href="http://audacity.sourceforge.net/">Audacity</a> can be used to remove those parts from your files.</p></article><footer><ul><li><a href="/#about">About</a></li><li><a href="mailto:rpg.ambience@gmail.com">Contact</a></li><li><a href="/atom.xml">Feed</a></li></ul></footer></body></html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<title>Achieving near-seamless audio loops with the overlap feature | RPG Ambience Blog</title>
+		<meta name="description" content="Advice on bringing your games to life with the RPG Ambience media player.">
+		<link rel="stylesheet" href="/css/base.css">
+		
+		<link rel="icon" type="image/png" href="http://rpg-ambience.com/images/icon.png">
+	</head>
+	<body>
+		<header>
+			<p><a href="/">RPG Ambience Blog</a></p><!--
+			--><p><a href="/">Advice on bringing your games to life with the RPG Ambience media player</a></p><!--
+			--><p><a href="http://rpg-ambience.com/">Try RPG Ambience</a></p>
+		</header>
+		<article>
+			
+	
+	<h1>Achieving near-seamless audio loops with the overlap feature</h1>
+	
+	<p class="publication-date">Published on <time datetime="2013-10-10T22:00:00.000Z">October 10th, 2013</time></p>
+	
+	
+				<p>An important feature for GMs who use music during their games is the ability to have it loop without interruptions and jarring transitions. When I first started developing RPG Ambience, my intent was to achieve this by implementing seamless looping of tracks. I quickly encountered two major problems:</p>
+
+				<ol>
+					<li>First of all, completely seamless looping of audio files does not have good browser support (if any).</li>
+					<li>Second of all, and most importantly, very few music tracks have endings that line up with the beginning, making the transition very noticeable even when it's made seamless.</li>
+				</ol>
+
+				<p>With this in mind, I began considering an alternative to seamless looping that is available in some media players: crossfading, which is achieved by fading out the old track while simultaneously fading in the new one. I was optimistic that this approach would be the best and most realistic alternative to truly seamless looping. After manually trying the technique on some tracks, however, I was not completely satisfied; the transition was still very much noticeable for many tracks.</p>
+
+				<p>After a while, I started experimenting with what I at first thought to be a "poor man's" crossfading: to simply have the new track start a bit before the old track ended, without fading either of them. In earlier versions of RPG Ambience, this was called <dfn>crossover</dfn>, but it has since been renamed <dfn>overlap</dfn>. This turned out to be a very useful technique that consistently matched the quality of crossfading and often exceeded it, many times even achieving unnoticeable transitions.</p>
+
+				<p>The two waveforms below show the difference between an audio loop using crossfading and one using overlap:</p>
+				
+				<div class="side-by-side">
+					<figure>
+						<figcaption>Crossfading</figcaption>
+						<img src="/media/crossfading.png" alt="Waveform of a sample transition using crossfading">
+						<audio src="/media/crossfading.ogg" controls=""></audio>
+					</figure><!--
+					--><figure>
+						<figcaption>Overlap</figcaption>
+						<img src="/media/overlap.png" alt="Waveform of a sample transition using overlap">
+						<audio src="/media/overlap.ogg" controls=""></audio>
+					</figure>
+				</div>
+				
+				<p>While the loop using crossfading sounds alright, there is still a noticeable gap between the end of the old track and the beginning of the new track, and the distinct opening drum beat is lost in the fading. The loop using overlap, on the other hand, continues playing the song without even skipping a beat, and retains the opening drum beat.</p>
+
+				<h2>How to use overlap in RPG Ambience</h2>
+
+				<p>This brings us to the implementation of overlap in RPG Ambience. In order to make your audio tracks loop using overlap, go to the <i>Sound</i> tab of a scene and look for the <i>Overlap</i> field at the bottom. This input controls how many seconds early the new track will start before the old track ends. Fractional numbers are allowed, but note that very short durations may not work as intended; due to technical limitations, a value of less than roughly 0.3 might effectively be rounded down to zero.</p>
+
+				<p>It's important to note that the <i>Overlap</i> setting in the current version of RPG Ambience applies to all track transitions for that scene. In other words, it's not currently possible to specify that one track should start three seconds early and another track should start five seconds early. I have thought about expanding this functionality in the future, but in absence of such a feature, my experience tells me that a blanket overlap duration of about 2-5 seconds is usually enough to achieve a pretty good result.</p>
+
+				<p>One final note: If the overlap doesn't seem to take effect properly, make sure that your audio files don't begin or end with long silences, as some recordings do. A sound editor like <a href="http://audacity.sourceforge.net/">Audacity</a> can be used to remove those parts from your files.</p>
+			
+
+		</article>
+		<footer>
+			<ul>
+				<li><a href="/#about">About</a></li><!--
+				--><li><a href="mailto:rpg.ambience@gmail.com">Contact</a></li><!--
+				--><li><a href="/atom.xml">Feed</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
