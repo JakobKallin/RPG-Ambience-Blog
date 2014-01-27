@@ -41,6 +41,7 @@ html {
 	background-color: black;
 	color: white;
 	font-family: Georgia, serif;
+	font-size: 1em;
 	text-align: center;
 }
 
@@ -152,7 +153,7 @@ article {
 	}
 	
 	article h1, article h2, article h3, article p, article ol, article ul, article figure {
-		max-width: 40rem;
+		max-width: 45rem;
 		margin-left: auto;
 		margin-right: auto;
 	}
@@ -208,13 +209,12 @@ article {
 	article figure {
 		margin-top: 1.5em;
 		margin-bottom: 1.5em;
+		text-align: center;
 	}
 	
 	article figure img {
-		display: block;
+		display: inline-block;
 		height: 15em;
-		margin-left: auto;
-		margin-right: auto;
 	}
 	
 	article figure img.wide {

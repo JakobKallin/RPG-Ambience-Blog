@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-01-19T23:06:32.874Z</updated>
+	<updated>2014-01-27T02:27:30.723Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,65 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>Music recommendation: Jedi Outcast and Jedi Academy (Star Wars)</title>
+		<id>http://blog.rpg-ambience.com/music/jedi-outcast-and-jedi-academy/</id>
+		<updated>2014-01-26T20:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<figure class="cover-art">
+					<img src="/media/jedi-outcast.png" alt="Jedi Outcast video game icon" /><!--
+					--><img src="/media/jedi-academy.png" alt="Jedi Academy video game icon" />
+				</figure>
+				
+				<p>Music is crucial to the <cite>Star Wars</cite> experience. With the most recognizable opening theme of all time, it grabs the audience's attention from the very first moment—whether that audience is in a movie theater or at a gaming table.</p>
+				
+				<p>When trying to find music for your <cite>Star Wars</cite> game, the solution might seem obvious: Use the official movie soundtracks. Many of the tracks, however, are quite long and varied in both tempo and mood, making them less than optimal for gaming unless you are prepared to do some editing.</p>
+				
+				<p>Luckily, the developers of the <cite>Star Wars</cite> video games <cite>Jedi Outcast</cite> and <cite>Jedi Academy</cite> faced the same problem and did all that editing, making things a lot easier for the rest of us. The soundtracks to these games consist entirely of sections from the movie soundtracks joined together into virtually seamless remixes tailored for use during gameplay.</p>
+				
+				<h2>How to access the music</h2>
+				
+				<p>Unlike a lot of video games, <cite>Jedi Outcast</cite> and <cite>Jedi Academy</cite> store their music in a format that is easy to extract and make use of. While this blog normally focuses on how to use music rather than how to obtain it, the sheer value of these two soundtracks is enough to make an exception. In order to access the music, follow these instructions:</p>
+				
+				<ol>
+					<li>Insert your <cite>Jedi Outcast</cite> disc, or <cite>Jedi Academy</cite> disc one.</li>
+					<li>On the disc, navigate to <code>GameData &gt; GameData &gt; base</code>.</li>
+					<li>Open the file <code>assets0.pk3</code> in a file archiver, such as <a href="http://www.7-zip.org/">7-Zip</a>.</li>
+					<li>Extract the contents of <code>music</code> to your hard drive.</li>
+				</ol>
+				
+				<p>At this point, you have full access to all of the MP3s used in the games.</p>
+				
+				<p>Note that <cite>Jedi Outcast</cite> and <cite>Jedi Academy</cite> do not contain exactly the same tracks, so extract the music from both of them if you want the complete collection.</p>
+				
+				<h2>Suggested scenes</h2>
+				
+				<h3>Theme</h3>
+				<ul>
+					<li>cinematic_1.mp3</li>
+					<li>endcredits.mp3</li>
+				</ul>
+				
+				<h3>Exploration</h3>
+				<ul>
+					<li>Any track ending in <code>_explore</code></li>
+				</ul>
+				
+				<h3>Action</h3>
+				<ul>
+					<li>Any track ending in <code>_action</code></li>
+				</ul>
+				
+				<h3>Chase</h3>
+				<ul>
+					<li><code>rail_nowhere.mp3</code>, in the <code>t1_rail</code> folder from <cite>Jedi Academy</cite></li>
+				</ul>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/music/jedi-outcast-and-jedi-academy/"/>
+	</entry><entry>
 		<title>The status of RPG Ambience in 2014</title>
 		<id>http://blog.rpg-ambience.com/articles/2014-status/</id>
 		<updated>2014-01-19T20:00:00.000Z</updated>
@@ -83,7 +142,7 @@
 				
 				<h2>Suggested scenes</h2>
 				
-				<h3>Pre- and post-game</h3>
+				<h3>Theme</h3>
 				<ol>
 					<li value="1">Main Theme</li>
 					<li value="2">Setting the Stage</li>
@@ -193,7 +252,7 @@
 				
 				<h2>Suggested scenes</h2>
 				
-				<h3>Pre- and post-game</h3>
+				<h3>Theme</h3>
 				<ol>
 					<li value="1">The Way of the Open Palm</li>
 					<li value="2">Jade Empire Main Theme</li>
