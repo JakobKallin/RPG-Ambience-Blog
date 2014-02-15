@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-01-27T02:27:30.723Z</updated>
+	<updated>2014-02-15T23:27:13.912Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,41 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>Making a soundtrack your own</title>
+		<id>http://blog.rpg-ambience.com/articles/soundtrack-ownership/</id>
+		<updated>2014-02-15T20:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<figure class="cover-art">
+					<img src="/media/among-thieves.jpg" alt="Cover art for the Uncharted: Among Thieves soundtrack" />
+				</figure>
+				
+				<p>Even though I love pulp adventure stories, I have never played a game in the <cite>Uncharted</cite> series. At a friend's recommendation, however, I decided to use one of its soundtracks for a <cite>Trail of Cthulhu</cite> adventure taking place in Tibet.</p>
+				
+				<p>To my friend, hearing the soundtrack no doubt reminded him of the game. To me, however, the soundtrack was something else entirely. To me, the soundtrack was as integral to the adventure as the plot, the locations, and the characters. As far as I was concerned, the soundtrack had been composed specifically for the adventure. For all intents and purposes, I had made the soundtrack my own, and my mind is drawn to the adventure whenever I listen to it.</p>
+				
+				<p>To me, track 2, "The City's Secret", is the ominous introduction to the adventure, with its exotic sound placing us in the mountains of Tibet. The first half of track 15, "The Gates of Shambhala", describes the heroes making their surreal, taxing ascent to the top of the mountain. The second half of the same track conveys the danger and urgency of the mountaintop collapsing in on the hidden city and the heroes. Track 4, "Reunion", signals that the terror is over, and that the heroes have finally uncovered and survived the truth that they were searching for.</p>
+				
+				<p>Anybody who did not take part in the adventure will not gather much about it from this description, but could still enjoy the soundtrack in its own right. Likewise, the entire adventure could have been played without music and still yield great memories of a captivating story.</p>
+				
+				<p>To those who took part in the adventure and made the soundtrack their own, however, the two become inseperable. When music used in this way, it becomes more than just a way of adding emotion and heightening the immersion—it becomes a part of the story itself.</p>
+				
+				<h2>How to make a soundtrack your own</h2>
+				<p>Making a soundtrack your own is not a goal in itself, but rather a side effect of skillfully using music during a session. Even then, the way in which you select your soundtracks can affect the likelihood of you making it your own.</p>
+				
+				<p>Without a doubt, the soundtracks that are easiest to make your own are those that nobody in your group has heard before. When you are given a clean slate, you have every chance to associate them with any element of your game. A surprisingly good source for such music is mediocre and even plain bad movies and video games, which frequently have soundtracks that are much better than the rest of the movie or game.</p>
+				
+				<p>That being said, you should also consider the possibility of taking something less obscure and making it your own. When a soundtrack is used well and ties into the story being told, even familiar music can get a new identity. Despite being a big fan of the Rat Pack, I have successfully transformed several of their songs into the opening themes to some of my adventures, associating them primarily with those adventures even today.</p>
+				
+				<p>Unlike the art that you select in <a href="/articles/artwork-driven-adventures/">artwork-driven adventure design</a>, a soundtrack doesn't have to dictate the plot in order for you to make it your own; when I selected the soundtrack for my <cite>Trail of Cthulhu</cite> adventure, for instance, the story elements of the adventure were already decided. The two concepts are closely related, though, and using either or both of them can blur the boundaries between roleplaying games and other forms of entertainment.</p>
+				
+				<p>Successfully making a soundtrack your own is a great outcome of a session, and one that you should embrace when it occurs. If I ever do play an <cite>Uncharted</cite> game, it's quite likely that my instinctive reaction to hearing the soundtrack will be: "Hey, they stole that from my game!"</p>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/soundtrack-ownership/"/>
+	</entry><entry>
 		<title>Music recommendation: Jedi Outcast and Jedi Academy (Star Wars)</title>
 		<id>http://blog.rpg-ambience.com/music/jedi-outcast-and-jedi-academy/</id>
 		<updated>2014-01-26T20:00:00.000Z</updated>
