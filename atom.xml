@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-02-15T23:27:13.912Z</updated>
+	<updated>2014-02-16T00:09:54.944Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -25,11 +25,11 @@
 					<img src="/media/among-thieves.jpg" alt="Cover art for the Uncharted: Among Thieves soundtrack" />
 				</figure>
 				
-				<p>Even though I love pulp adventure stories, I have never played a game in the <cite>Uncharted</cite> series. At a friend's recommendation, however, I decided to use one of its soundtracks for a <cite>Trail of Cthulhu</cite> adventure taking place in Tibet.</p>
+				<p>Even though I love pulp adventure stories, I have never played a game in the <cite>Uncharted</cite> series. At a friend’s recommendation, however, I decided to use one of its soundtracks for a <cite>Trail of Cthulhu</cite> adventure taking place in Tibet.</p>
 				
 				<p>To my friend, hearing the soundtrack no doubt reminded him of the game. To me, however, the soundtrack was something else entirely. To me, the soundtrack was as integral to the adventure as the plot, the locations, and the characters. As far as I was concerned, the soundtrack had been composed specifically for the adventure. For all intents and purposes, I had made the soundtrack my own, and my mind is drawn to the adventure whenever I listen to it.</p>
 				
-				<p>To me, track 2, "The City's Secret", is the ominous introduction to the adventure, with its exotic sound placing us in the mountains of Tibet. The first half of track 15, "The Gates of Shambhala", describes the heroes making their surreal, taxing ascent to the top of the mountain. The second half of the same track conveys the danger and urgency of the mountaintop collapsing in on the hidden city and the heroes. Track 4, "Reunion", signals that the terror is over, and that the heroes have finally uncovered and survived the truth that they were searching for.</p>
+				<p>To me, track 2, “The City’s Secret”, is the ominous introduction to the adventure, with its exotic sound placing us in the mountains of Tibet. The first half of track 15, “The Gates of Shambhala”, describes the heroes making their surreal, taxing ascent to the top of the mountain. The second half of the same track conveys the danger and urgency of the mountaintop collapsing in on the hidden city and the heroes. Track 4, “Reunion”, signals that the terror is over, and that the heroes have finally uncovered and survived the truth that they were searching for.</p>
 				
 				<p>Anybody who did not take part in the adventure will not gather much about it from this description, but could still enjoy the soundtrack in its own right. Likewise, the entire adventure could have been played without music and still yield great memories of a captivating story.</p>
 				
@@ -42,9 +42,9 @@
 				
 				<p>That being said, you should also consider the possibility of taking something less obscure and making it your own. When a soundtrack is used well and ties into the story being told, even familiar music can get a new identity. Despite being a big fan of the Rat Pack, I have successfully transformed several of their songs into the opening themes to some of my adventures, associating them primarily with those adventures even today.</p>
 				
-				<p>Unlike the art that you select in <a href="/articles/artwork-driven-adventures/">artwork-driven adventure design</a>, a soundtrack doesn't have to dictate the plot in order for you to make it your own; when I selected the soundtrack for my <cite>Trail of Cthulhu</cite> adventure, for instance, the story elements of the adventure were already decided. The two concepts are closely related, though, and using either or both of them can blur the boundaries between roleplaying games and other forms of entertainment.</p>
+				<p>Unlike the art that you select in <a href="/articles/artwork-driven-adventures/">artwork-driven adventure design</a>, a soundtrack doesn’t have to dictate the plot in order for you to make it your own; when I selected the soundtrack for my <cite>Trail of Cthulhu</cite> adventure, for instance, the story elements of the adventure were already decided. The two concepts are closely related, though, and using either or both of them can blur the boundaries between roleplaying games and other forms of entertainment.</p>
 				
-				<p>Successfully making a soundtrack your own is a great outcome of a session, and one that you should embrace when it occurs. If I ever do play an <cite>Uncharted</cite> game, it's quite likely that my instinctive reaction to hearing the soundtrack will be: "Hey, they stole that from my game!"</p>
+				<p>Successfully making a soundtrack your own is a great outcome of a session, and one that you should embrace when it occurs. If I ever do play an <cite>Uncharted</cite> game, it’s quite likely that my instinctive reaction to hearing the soundtrack will be: “Hey, they stole that from my game!”</p>
 			
 			</div>
 		</content>
@@ -61,7 +61,7 @@
 					--><img src="/media/jedi-academy.png" alt="Jedi Academy video game icon" />
 				</figure>
 				
-				<p>Music is crucial to the <cite>Star Wars</cite> experience. With the most recognizable opening theme of all time, it grabs the audience's attention from the very first moment—whether that audience is in a movie theater or at a gaming table.</p>
+				<p>Music is crucial to the <cite>Star Wars</cite> experience. With the most recognizable opening theme of all time, it grabs the audience’s attention from the very first moment—whether that audience is in a movie theater or at a gaming table.</p>
 				
 				<p>When trying to find music for your <cite>Star Wars</cite> game, the solution might seem obvious: Use the official movie soundtracks. Many of the tracks, however, are quite long and varied in both tempo and mood, making them less than optimal for gaming unless you are prepared to do some editing.</p>
 				
@@ -115,9 +115,9 @@
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				
-				<p>At this point, RPG Ambience is fairly complete for the features that it offers. While there are several tweaks to be made to the current version, it is fully functional; I've used the current set of features in all of my games for the last few months without major problems.</p>
+				<p>At this point, RPG Ambience is fairly complete for the features that it offers. While there are several tweaks to be made to the current version, it is fully functional; I’ve used the current set of features in all of my games for the last few months without major problems.</p>
 				
-				<p>Even then, there are features planned that haven't yet been implemented, such as <a href="https://github.com/JakobKallin/RPG-Ambience/issues/30">scripting</a> and <a href="https://github.com/JakobKallin/RPG-Ambience/issues/31">animations</a>. At this point, further development of RPG Ambience will be unpredictable and likely slow because I'm both working and writing my master's thesis this semester. In all likelihood, this means that major tweaks or new features will be on hold for at least half a year.</p>
+				<p>Even then, there are features planned that haven’t yet been implemented, such as <a href="https://github.com/JakobKallin/RPG-Ambience/issues/30">scripting</a> and <a href="https://github.com/JakobKallin/RPG-Ambience/issues/31">animations</a>. At this point, further development of RPG Ambience will be unpredictable and likely slow because I’m both working and writing my master’s thesis this semester. In all likelihood, this means that major tweaks or new features will be on hold for at least half a year.</p>
 				
 				<p>That being said, some development is still possible. In particular, smaller changes or additions that are of considerable value could be added, especially if specific requests are made. An example of such a feature is <a href="https://github.com/JakobKallin/RPG-Ambience/issues/38">crossfading</a>, which was requested by a user and eventually implemented with relatively little work. If you have suggestions for features like this that would make RPG Ambience more valuable to you, do not hesitate to <a href="rpg.ambience@gmail.com">send an email</a> or <a href="https://github.com/JakobKallin/RPG-Ambience/issues">post an issue</a>.</p>
 			
@@ -131,15 +131,15 @@
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				
-				<p>There is widespread sentiment in the creative community that a great work of art must come from the artist's own imagination. While homages and allusions to other art are accepted and often appreciated, blatant plagiarism is universally rejected.</p>
+				<p>There is widespread sentiment in the creative community that a great work of art must come from the artist’s own imagination. While homages and allusions to other art are accepted and often appreciated, blatant plagiarism is universally rejected.</p>
 
-				<p>The world of roleplaying games, even though it's a highly creative field, differs from other art in two important ways: its primary goal is entertainment, and the audience of a single adventure generally only consists of a single gaming group. These facts provide roleplayers with an immense benefit: Plagiarism is no problem at all, as long as it enhances the game.</p>
+				<p>The world of roleplaying games, even though it’s a highly creative field, differs from other art in two important ways: its primary goal is entertainment, and the audience of a single adventure generally only consists of a single gaming group. These facts provide roleplayers with an immense benefit: Plagiarism is no problem at all, as long as it enhances the game.</p>
 
-				<p>This is not a new sentiment; in fact, it's spelled out clearly in the world's most iconic roleplaying game, <cite>Dungeons &amp; Dragons</cite>: <q cite="http://www.wizards.com/dnd/product.aspx?x=dnd/products/dndacc/217507200" title="Quote by Andrew Finch on page 133 of the 4th edition Dungeon Master's Guide">The DM's job is to entertain, not to be original.</q> For those who enhance their sessions with music and visuals, it opens up an entirely new world of possibilities. One such possibility is what I call artwork-driven adventure design.</p>
+				<p>This is not a new sentiment; in fact, it’s spelled out clearly in the world’s most iconic roleplaying game, <cite>Dungeons &amp; Dragons</cite>: <q cite="http://www.wizards.com/dnd/product.aspx?x=dnd/products/dndacc/217507200" title="Quote by Andrew Finch on page 133 of the 4th edition Dungeon Master's Guide">The DM’s job is to entertain, not to be original.</q> For those who enhance their sessions with music and visuals, it opens up an entirely new world of possibilities. One such possibility is what I call artwork-driven adventure design.</p>
 
 				<p>To put it simply, artwork-driven adventure design means creating an adventure based on artwork that you have already found, rather than trying to find suitable artwork for an adventure that you have already created. In other words, you conjure up an entire adventure based on inspiring pictures and music tracks. Since the adventure is based on the artwork, they will mesh perfectly and appear as if they were made for each other.</p>
 
-				<p>For instance, let's say that you find this digital painting of a wizard's library by <a href="http://star.cghub.com/">Shuxing Li</a>:</p>
+				<p>For instance, let’s say that you find this digital painting of a wizard’s library by <a href="http://star.cghub.com/">Shuxing Li</a>:</p>
 				
 				<figure>
 					<a href="http://cghub.com/images/view/161287/">
@@ -147,9 +147,9 @@
 					</a>
 				</figure>
 
-				<p>If you are looking for artwork to depict a generic library, this is far too specific. Similarly, if you have already created an adventure centered around a wizard's library, the details in this painting probably don't match what you have come up with on your own. If you let the artwork shape your adventure, however, it easily becomes a perfect match.</p>
+				<p>If you are looking for artwork to depict a generic library, this is far too specific. Similarly, if you have already created an adventure centered around a wizard’s library, the details in this painting probably don’t match what you have come up with on your own. If you let the artwork shape your adventure, however, it easily becomes a perfect match.</p>
 
-				<p>Even after you have "stolen" the painting and incorporated it into your adventure, you'll find that it immediately asks for new ideas in return. What is that sphere in the middle of the hallway? Why are there cobwebs all over the place and a skull on the floor? Where does the stairway lead?</p>
+				<p>Even after you have “stolen” the painting and incorporated it into your adventure, you’ll find that it immediately asks for new ideas in return. What is that sphere in the middle of the hallway? Why are there cobwebs all over the place and a skull on the floor? Where does the stairway lead?</p>
 
 				<p>When you answer these questions, you are letting the artwork drive your adventure design. If you do it right, the story will be just as captivating as anything else you create—but the players will now also marvel at sound and visuals that perfectly match the story that you are telling.</p>
 			
@@ -167,13 +167,13 @@
 					<img src="/media/baldurs-gate.jpg" alt="Cover art for the Baldur's Gate soundtrack" />
 				</figure>
 				
-				<p>It's impossible for me to be impartial when reviewing the soundtrack that first got me started using music in tabletop roleplaying games. Luckily, a blog like this does not have to adhere to any sort of journalistic standards, so what follows is my completely biased recommendation of the <cite>Baldur's Gate</cite> soundtrack.</p>
+				<p>It’s impossible for me to be impartial when reviewing the soundtrack that first got me started using music in tabletop roleplaying games. Luckily, a blog like this does not have to adhere to any sort of journalistic standards, so what follows is my completely biased recommendation of the <cite>Baldur’s Gate</cite> soundtrack.</p>
 				
-				<p>To many video gamers, <cite>Baldur's Gate</cite> remains the gold standard against which all other RPG video games are measured. The same could be said of its soundtrack. While many soundtracks that came after it, including that of the sequel <cite>Shadows of Amn</cite>, may well be more interesting from a purely artistic point of view, few soundtracks are as immediately useful to tabletop roleplayers as this one.</p>
+				<p>To many video gamers, <cite>Baldur’s Gate</cite> remains the gold standard against which all other RPG video games are measured. The same could be said of its soundtrack. While many soundtracks that came after it, including that of the sequel <cite>Shadows of Amn</cite>, may well be more interesting from a purely artistic point of view, few soundtracks are as immediately useful to tabletop roleplayers as this one.</p>
 				
 				<p>The tracklist covers almost every common theme that a typical fantasy campaign will need. Most tracks have titles that clearly communicate their mood and tempo, and nearly all of them are uniform enough to be useful without editing.</p>
 				
-				<p>Although not apparent at first, a leitmotif for the entire game recurs in several tracks, both calm and dramatic. To players who spent a lot of time with <cite>Baldur's Gate</cite>, this melody provides a unique connection to the Forgotten Realms and the Sword Coast in particular, which could be either a great benefit or a drawback depending on which type of game you are running. To players who don't recognize the theme to begin with but pick it up during your sessions, it may well become a trademark theme that they will forever associate with your campaign.</p>
+				<p>Although not apparent at first, a leitmotif for the entire game recurs in several tracks, both calm and dramatic. To players who spent a lot of time with <cite>Baldur’s Gate</cite>, this melody provides a unique connection to the Forgotten Realms and the Sword Coast in particular, which could be either a great benefit or a drawback depending on which type of game you are running. To players who don’t recognize the theme to begin with but pick it up during your sessions, it may well become a trademark theme that they will forever associate with your campaign.</p>
 				
 				<h2>Suggested scenes</h2>
 				
@@ -186,7 +186,7 @@
 				<h3>Battle</h3>
 				<ol>
 					<li value="4">Attacked By Assassins</li>
-					<li value="6">Gorion's Battle</li>
+					<li value="6">Gorion’s Battle</li>
 					<li value="8">Hobgoblins and Worgs</li>
 					<li value="10">The Gibberling Horde</li>
 					<li value="13">Swords Against Darkness</li>
@@ -218,7 +218,7 @@
 					<li value="15">The Beregost Night</li>
 					<li value="19">Night In Cloakwood</li>
 					<li value="23">Stealth In the Bandit Camp</li>
-					<li value="27">Night Falls On Baldur's Gate</li>
+					<li value="27">Night Falls On Baldur’s Gate</li>
 				</ol>
 
 				<h3>Dungeon</h3>
@@ -230,8 +230,8 @@
 
 				<h3>Temple</h3>
 				<ol>
-					<li value="11">Helm's Temple</li>
-					<li value="28">The Lady's House</li>
+					<li value="11">Helm’s Temple</li>
+					<li value="28">The Lady’s House</li>
 				</ol>
 
 				<h3>Emotional</h3>
@@ -255,7 +255,7 @@
 
 				<p>As roleplayers, we are used to adventures that focus on violent conflict and stressful situations. Movies and books, however, generally put much more emphasis on human emotion than traditional roleplaying games. Even adventure movies like <cite>Star Wars</cite> devote entire scenes to the thoughts and feelings of the characters. Gamemasters who want to incorporate the same type of scenes in their games can benefit immensely from emotional music.</p>
 
-				<p>In this context, emotional music refers to the type of music that plays in a movie or game when the characters' feelings, rather than their actions, are in focus. These feelings can be anything from sadness and despair to love and relief. Two common traits of such music are a lower tempo and the use of certain instruments like the violin and the piano. Notable examples include "Binary Sunset" from <cite>Star Wars: A New Hope</cite> and the opening theme to <cite>The Rock</cite>.</p>
+				<p>In this context, emotional music refers to the type of music that plays in a movie or game when the characters’ feelings, rather than their actions, are in focus. These feelings can be anything from sadness and despair to love and relief. Two common traits of such music are a lower tempo and the use of certain instruments like the violin and the piano. Notable examples include “Binary Sunset” from <cite>Star Wars: A New Hope</cite> and the opening theme to <cite>The Rock</cite>.</p>
 
 				<p>Emotional music requires special attention because emotional scenes, as mentioned earlier, are an unexpected part of adventures for many roleplayers. Merely describing an emotional situation is not guaranteed to evoke emotion among the players in the way that simply rolling for initiative will evoke an instinctive feeling of excitement. Likewise, merely playing emotional music will not necessarily have the same effect as playing action music. In a game where emotional scenes are rare, the combination of emotional narration and emotional music can be crucial in properly setting the mood.</p>
 
@@ -283,7 +283,7 @@
 					<img src="/media/jade-empire.jpg" alt="Cover art for the Jade Empire soundtrack" />
 				</figure>
 				
-				<p>While the soundtrack of <cite>Jade Empire</cite> is sadly one of few readily available soundtracks from games with an oriental setting, it's useful enough that it might just be the only one you need. The calmer tracks draw heavily from Chinese aesthetics while the most dramatic tracks are closer to traditional orchestral arrangements. There are 31 tracks in total, and many of them are uniform enough to be useful without any editing.</p>
+				<p>While the soundtrack of <cite>Jade Empire</cite> is sadly one of few readily available soundtracks from games with an oriental setting, it’s useful enough that it might just be the only one you need. The calmer tracks draw heavily from Chinese aesthetics while the most dramatic tracks are closer to traditional orchestral arrangements. There are 31 tracks in total, and many of them are uniform enough to be useful without any editing.</p>
 				
 				<h2>Suggested scenes</h2>
 				
@@ -354,21 +354,21 @@
 
 				<p>The idea behind using pre- and post-game music is to promote a certain mood that you want the players to be in while they are creating their characters or recapping the previous session, as well as when they are discussing the game right after it has finished. The music can simply reinforce themes that are important to the adventure itself, such as starting a horror session with dark, ominous music to get the players in the mood. Conversely, it can also provide contrast, such as ending that same horror session with upbeat music in order to take the edge off the situation.</p>
 				
-				<p>The common idea is that you can influence your players to think about the game—and to think about it in a certain manner—even while they're not playing it.</p>
+				<p>The common idea is that you can influence your players to think about the game—and to think about it in a certain manner—even while they’re not playing it.</p>
 
-				<p>Since pre- and post-game music takes place outside of the adventure itself, it doesn't have to relate directly to any events taking place in-game. This gives you some creative freedom and allows you to select music that would otherwise be difficult to fit into a session.</p>
+				<p>Since pre- and post-game music takes place outside of the adventure itself, it doesn’t have to relate directly to any events taking place in-game. This gives you some creative freedom and allows you to select music that would otherwise be difficult to fit into a session.</p>
 
 				<h2>How to select pre- and post-game music</h2>
 				
 				<p>For pre-game music, suitable tracks include epic opening themes, menu music from video games, and tracks that are too varying in tempo or mood to use during the adventure itself.</p>
 				
-				<p>As an example, consider the first distinct piece of music that plays in the <cite>Knights of the Old Republic</cite> video game. The famous <cite>Star Wars</cite> opening theme doesn't actually appear until after the player has created his character; during the entire character creation process, the music played is the theme of the Old Republic. This epic composition is too anthemic to easily fit inside an adventure, yet not powerful enough to serve as the adventure's opening theme (which in any <cite>Star Wars</cite> game is a given). As pre-game music, however, it works perfectly to give the players a sense of epic adventure coupled with the uniquely ancient feel that accompanies games set in this era.</p>
+				<p>As an example, consider the first distinct piece of music that plays in the <cite>Knights of the Old Republic</cite> video game. The famous <cite>Star Wars</cite> opening theme doesn’t actually appear until after the player has created his character; during the entire character creation process, the music played is the theme of the Old Republic. This epic composition is too anthemic to easily fit inside an adventure, yet not powerful enough to serve as the adventure’s opening theme (which in any <cite>Star Wars</cite> game is a given). As pre-game music, however, it works perfectly to give the players a sense of epic adventure coupled with the uniquely ancient feel that accompanies games set in this era.</p>
 				
-				<p>For post-game music, you have even more leeway in selecting your tracks, because you don't risk setting the wrong tone for an entire session. Unless your campaign is of a very serious nature, you can even consider using humorous, silly, or even modern-day tracks that tie into the story that you were telling.</p>
+				<p>For post-game music, you have even more leeway in selecting your tracks, because you don’t risk setting the wrong tone for an entire session. Unless your campaign is of a very serious nature, you can even consider using humorous, silly, or even modern-day tracks that tie into the story that you were telling.</p>
 				
-				<p>For a recent one-shot game <a href="http://www.bullypulpitgames.com/news/2011/03/01/march-playset-of-the-month-quest-for-the-golden-panda/">set in mythical China</a>, I ended the session with the well-known '70s song "Kung Fu Fighting" by Carl Douglas, also notably used in the movie <cite>Kung Fu Panda</cite>. It's light-hearted, anachronistic, and downright silly, and using it in-game would have ruined the mood, but playing it after the adventure made perfect sense. If you're not prepared to go that far, look for setting-appropriate music that reinforces the overall experience of the players, such as an upbeat orchestral composition for a session that saw the characters prevail in an epic battle.</p>
+				<p>For a recent one-shot game <a href="http://www.bullypulpitgames.com/news/2011/03/01/march-playset-of-the-month-quest-for-the-golden-panda/">set in mythical China</a>, I ended the session with the well-known '70s song “Kung Fu Fighting” by Carl Douglas, also notably used in the movie <cite>Kung Fu Panda</cite>. It’s light-hearted, anachronistic, and downright silly, and using it in-game would have ruined the mood, but playing it after the adventure made perfect sense. If you’re not prepared to go that far, look for setting-appropriate music that reinforces the overall experience of the players, such as an upbeat orchestral composition for a session that saw the characters prevail in an epic battle.</p>
 
-				<p>Even if you put a lot of effort into selecting pre- and post-game music, it may not make an obvious difference at the gaming table itself. That's alright, because the main goal of using pre- and post-music is to affect players subtly, or even subconsciously. If the players start to find themselves feeling that the gaming experience starts as soon as they enter the gaming room, and only ends just after they have left it, you're doing things right.</p>
+				<p>Even if you put a lot of effort into selecting pre- and post-game music, it may not make an obvious difference at the gaming table itself. That’s alright, because the main goal of using pre- and post-music is to affect players subtly, or even subconsciously. If the players start to find themselves feeling that the gaming experience starts as soon as they enter the gaming room, and only ends just after they have left it, you’re doing things right.</p>
 
 				<p class="appendix"><a href="mailto:rpg.ambience@gmail.com">Send in your thoughts</a> about using pre- and post-game music and your comments might be featured in the article.</p>
 			
@@ -386,12 +386,12 @@
 
 				<ol>
 					<li>First of all, completely seamless looping of audio files does not have good browser support (if any).</li>
-					<li>Second of all, and most importantly, very few music tracks have endings that line up with the beginning, making the transition very noticeable even when it's made seamless.</li>
+					<li>Second of all, and most importantly, very few music tracks have endings that line up with the beginning, making the transition very noticeable even when it’s made seamless.</li>
 				</ol>
 
 				<p>With this in mind, I began considering an alternative to seamless looping that is available in some media players: crossfading, which is achieved by fading out the old track while simultaneously fading in the new one. I was optimistic that this approach would be the best and most realistic alternative to truly seamless looping. After manually trying the technique on some tracks, however, I was not completely satisfied; the transition was still very much noticeable for many tracks.</p>
 
-				<p>After a while, I started experimenting with what I at first thought to be a "poor man's" crossfading: to simply have the new track start a bit before the old track ended, without fading either of them. In earlier versions of RPG Ambience, this was called <dfn>crossover</dfn>, but it has since been renamed <dfn>overlap</dfn>. This turned out to be a very useful technique that consistently matched the quality of crossfading and often exceeded it, many times even achieving unnoticeable transitions.</p>
+				<p>After a while, I started experimenting with what I at first thought to be a “poor man’s” crossfading: to simply have the new track start a bit before the old track ended, without fading either of them. In earlier versions of RPG Ambience, this was called <dfn>crossover</dfn>, but it has since been renamed <dfn>overlap</dfn>. This turned out to be a very useful technique that consistently matched the quality of crossfading and often exceeded it, many times even achieving unnoticeable transitions.</p>
 
 				<p>The two waveforms below show the difference between an audio loop using crossfading and one using overlap:</p>
 				
@@ -414,9 +414,9 @@
 
 				<p>This brings us to the implementation of overlap in RPG Ambience. In order to make your audio tracks loop using overlap, go to the <i>Sound</i> tab of a scene and look for the <i>Overlap</i> field at the bottom. This input controls how many seconds early the new track will start before the old track ends. Fractional numbers are allowed, but note that very short durations may not work as intended; due to technical limitations, a value of less than roughly 0.3 might effectively be rounded down to zero.</p>
 
-				<p>It's important to note that the <i>Overlap</i> setting in the current version of RPG Ambience applies to all track transitions for that scene. In other words, it's not currently possible to specify that one track should start three seconds early and another track should start five seconds early. I have thought about expanding this functionality in the future, but in absence of such a feature, my experience tells me that a blanket overlap duration of about 2-5 seconds is usually enough to achieve a pretty good result.</p>
+				<p>It’s important to note that the <i>Overlap</i> setting in the current version of RPG Ambience applies to all track transitions for that scene. In other words, it’s not currently possible to specify that one track should start three seconds early and another track should start five seconds early. I have thought about expanding this functionality in the future, but in absence of such a feature, my experience tells me that a blanket overlap duration of about 2-5 seconds is usually enough to achieve a pretty good result.</p>
 
-				<p>One final note: If the overlap doesn't seem to take effect properly, make sure that your audio files don't begin or end with long silences, as some recordings do. A sound editor like <a href="http://audacity.sourceforge.net/">Audacity</a> can be used to remove those parts from your files.</p>
+				<p>One final note: If the overlap doesn’t seem to take effect properly, make sure that your audio files don’t begin or end with long silences, as some recordings do. A sound editor like <a href="http://audacity.sourceforge.net/">Audacity</a> can be used to remove those parts from your files.</p>
 			
 			</div>
 		</content>
