@@ -214,7 +214,9 @@ article {
 	
 	article figure img {
 		display: inline-block;
-		height: 15em;
+		max-width: 100%;
+		height: auto;
+		max-height: 15em;
 	}
 	
 	article figure img.wide {
