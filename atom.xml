@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-02-16T00:09:54.944Z</updated>
+	<updated>2014-03-09T19:27:47.395Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,13 +15,43 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>Using ambience to create campaign continuity</title>
+		<id>http://blog.rpg-ambience.com/articles/continuity/</id>
+		<updated>2014-03-09T20:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<p>When coming up with ways to make a roleplaying game more immersive with music and visuals, movies often provide many ideas. Much of the time, however, a roleplaying game is actually closer to a TV series: both consist of adventures (or episodes) that are part of a longer campaign (or season). As such, TV series can provide ideas on how to use music and visuals to not only heighten immersion, but also to create continuity in a campaign.</p>
+				
+				<p>Below are two ways of doing so, with examples taken from a <cite>Trail of Cthulhu</cite> campaign set in the post-war 1940s United States.</p>
+				
+				<h3>Opening sequences</h3>
+				<p>There are countless examples of great opening sequences from TV shows that immediately place the viewer in the show’s setting. Notable ones include <cite>The X-Files</cite>, <cite>Firefly</cite>, and <cite>The Simpsons</cite>. Perhaps the most famous opening sequence of all time is the <cite>Star Wars</cite> opening crawl, which is actually from a movie—but it’s not a coincidence that the movie in question is part of a series.</p>
+				
+				<p>An immersive opening sequence can be the single best way of getting players back into the campaign world after a week or more of not playing. It is also a part of the session where you can be sure that all players are listening closely, which enables you to weave threads through the campaign and emphasize important concepts that you want the players to pick up on.</p>
+				
+				<p>At the start of every adventure in my <cite>Trail of Cthulhu</cite> campaign, a short opening sequence was played: white letters fading into view on a black background, accompanied by ominous music and narration foreshadowing events to come. The same music, font, and narrative style was used for every such sequence, clearly signaling at the start of an adventure that the players would now enter the world of Cthulhu for the next few hours.</p>
+				
+				<p>On occasion, you can carefully break the continuity provided by an opening sequence in order to surprise the players or set the stage for particularly important adventures. While the opening sequence in my <cite>Trail of Cthulhu</cite> campaign usually contained the same music, I intentionally changed it during the campaign finale to something more dramatic, foreshadowing the crucial events to come. An example of this from TV is <cite>The X-Files</cite>, where certain episodes subtly replaced the famous opening line “The truth is out there” with something tied to that specific episode.</p>
+				
+				<h3>Musical themes</h3>
+				<p>Musical themes (or <i lang="de">leitmotifs</i>) can be a source of continuity for a campaign. While they are closely associated with opening sequences, there are many other ways of using them. An example of a soundtrack that weaves a theme through many different tracks is that of <a href="/music/baldurs_gate/"><cite>Baldur’s Gate</cite></a>, which has the potential to uniquely connect a campaign to the Forgotten Realms.</p>
+				
+				<p>Epic adventure movies like <cite>Star Wars</cite>, <cite>The Lord of the Rings</cite>, and <cite>Pirates of the Caribbean</cite> provide many ideas on how to use musical themes to tie different parts of the series together. In movies like these, they are frequently tied to specific characters, locations, and concepts. Introducing a villain with intimidating music is effectful enough, but announcing his appearance in subsequent adventures with the same music has even more of an impact. Eventually, merely playing the music will make your players think of the villain, whether he has appeared or not.</p>
+				
+				<p>For campaigns set in the real world, popular music from that period and region can be used to place the players in the setting without having to spell out when and where the adventure takes place. In my <cite>Trail of Cthulhu</cite> campaign, each session featured music by artists like the Rat Pack and Count Basie. These songs, while technically somewhat anachronistic, reminded the players of the setting’s time period in a more effective way than narration alone. </p>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/continuity/"/>
+	</entry><entry>
 		<title>Making a soundtrack your own</title>
 		<id>http://blog.rpg-ambience.com/articles/soundtrack-ownership/</id>
 		<updated>2014-02-15T20:00:00.000Z</updated>
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				
-				<figure class="cover-art">
+				<figure>
 					<img src="/media/among-thieves.jpg" alt="Cover art for the Uncharted: Among Thieves soundtrack" />
 				</figure>
 				
@@ -56,7 +86,7 @@
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				
-				<figure class="cover-art">
+				<figure>
 					<img src="/media/jedi-outcast.png" alt="Jedi Outcast video game icon" /><!--
 					--><img src="/media/jedi-academy.png" alt="Jedi Academy video game icon" />
 				</figure>
@@ -115,6 +145,10 @@
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				
+				<figure>
+					<img src="/media/logo.png" alt="The RPG Ambience logo" />
+				</figure>
+				
 				<p>At this point, RPG Ambience is fairly complete for the features that it offers. While there are several tweaks to be made to the current version, it is fully functional; I’ve used the current set of features in all of my games for the last few months without major problems.</p>
 				
 				<p>Even then, there are features planned that haven’t yet been implemented, such as <a href="https://github.com/JakobKallin/RPG-Ambience/issues/30">scripting</a> and <a href="https://github.com/JakobKallin/RPG-Ambience/issues/31">animations</a>. At this point, further development of RPG Ambience will be unpredictable and likely slow because I’m both working and writing my master’s thesis this semester. In all likelihood, this means that major tweaks or new features will be on hold for at least half a year.</p>
@@ -135,7 +169,7 @@
 
 				<p>The world of roleplaying games, even though it’s a highly creative field, differs from other art in two important ways: its primary goal is entertainment, and the audience of a single adventure generally only consists of a single gaming group. These facts provide roleplayers with an immense benefit: Plagiarism is no problem at all, as long as it enhances the game.</p>
 
-				<p>This is not a new sentiment; in fact, it’s spelled out clearly in the world’s most iconic roleplaying game, <cite>Dungeons &amp; Dragons</cite>: <q cite="http://www.wizards.com/dnd/product.aspx?x=dnd/products/dndacc/217507200" title="Quote by Andrew Finch on page 133 of the 4th edition Dungeon Master's Guide">The DM’s job is to entertain, not to be original.</q> For those who enhance their sessions with music and visuals, it opens up an entirely new world of possibilities. One such possibility is what I call artwork-driven adventure design.</p>
+				<p>This is not a new sentiment; in fact, it’s spelled out clearly in the world’s most iconic roleplaying game, <cite>Dungeons &amp; Dragons</cite>: <q cite="http://www.wizards.com/dnd/product.aspx?x=dnd/products/dndacc/217507200" title="Quote by Andrew Finch on page 133 of the 4th edition Dungeon Master’s Guide">The DM’s job is to entertain, not to be original.</q> For those who enhance their sessions with music and visuals, it opens up an entirely new world of possibilities. One such possibility is what I call artwork-driven adventure design.</p>
 
 				<p>To put it simply, artwork-driven adventure design means creating an adventure based on artwork that you have already found, rather than trying to find suitable artwork for an adventure that you have already created. In other words, you conjure up an entire adventure based on inspiring pictures and music tracks. Since the adventure is based on the artwork, they will mesh perfectly and appear as if they were made for each other.</p>
 
@@ -143,7 +177,7 @@
 				
 				<figure>
 					<a href="http://cghub.com/images/view/161287/">
-						<img src="/media/mage-library.jpg" alt="Painting of a wizard's library" />
+						<img src="/media/mage-library.jpg" alt="Painting of a wizard’s library" />
 					</a>
 				</figure>
 
@@ -157,14 +191,14 @@
 		</content>
 		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/artwork-driven-adventures/"/>
 	</entry><entry>
-		<title>Music recommendation: Baldur's Gate (fantasy)</title>
+		<title>Music recommendation: Baldur’s Gate (fantasy)</title>
 		<id>http://blog.rpg-ambience.com/music/baldurs-gate/</id>
 		<updated>2013-11-21T20:00:00.000Z</updated>
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				
-				<figure class="cover-art">
-					<img src="/media/baldurs-gate.jpg" alt="Cover art for the Baldur's Gate soundtrack" />
+				<figure>
+					<img src="/media/baldurs-gate.jpg" alt="Cover art for the Baldur’s Gate soundtrack" />
 				</figure>
 				
 				<p>It’s impossible for me to be impartial when reviewing the soundtrack that first got me started using music in tabletop roleplaying games. Luckily, a blog like this does not have to adhere to any sort of journalistic standards, so what follows is my completely biased recommendation of the <cite>Baldur’s Gate</cite> soundtrack.</p>
@@ -250,7 +284,7 @@
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				
 				<figure>
-					<img src="/media/binary-sunset.jpg" alt="The &quot;Binary Sunset&quot; scene in Star Wars: A New Hope" class="wide" />
+					<img src="/media/binary-sunset.jpg" alt="The “Binary Sunset” scene in Star Wars: A New Hope" class="wide" />
 				</figure>
 
 				<p>As roleplayers, we are used to adventures that focus on violent conflict and stressful situations. Movies and books, however, generally put much more emphasis on human emotion than traditional roleplaying games. Even adventure movies like <cite>Star Wars</cite> devote entire scenes to the thoughts and feelings of the characters. Gamemasters who want to incorporate the same type of scenes in their games can benefit immensely from emotional music.</p>
@@ -266,8 +300,6 @@
 				<p>Apart from conveying emotion in a scene that has already started, emotional music can also be used for setting expectations of a scene to come. If the gamemaster plays emotional music while the characters are exploring the debris of a burned-down village, the players are much more likely to contemplate the tragedy of what has happened than watch for hidden enemies or search for loot.</p>
 
 				<p>Emotional scenes can be demanding and risk feeling out-of-place, so you might find yourself wanting to save them for a select few moments in your sessions. In such a moment, however, emotional music can help you create the most memorable scene of an entire campaign.</p>
-
-				<p class="appendix"><a href="mailto:rpg.ambience@gmail.com">Send in your thoughts</a> about using emotional music and your comments might be featured in the article.</p>
 			
 			</div>
 		</content>
@@ -279,7 +311,7 @@
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				
-				<figure class="cover-art">
+				<figure>
 					<img src="/media/jade-empire.jpg" alt="Cover art for the Jade Empire soundtrack" />
 				</figure>
 				
@@ -345,7 +377,7 @@
 			<div xmlns="http://www.w3.org/1999/xhtml">
 				
 				<figure>
-					<img src="/media/kung-fu-fighting.jpg" alt="The cover of &quot;Kung Fu Fighting&quot; by Carl Douglas" />
+					<img src="/media/kung-fu-fighting.jpg" alt="The cover of “Kung Fu Fighting” by Carl Douglas" />
 				</figure>
 				
 				<p>It is well known that the opening and closing scenes of a movie can be greatly enhanced by music, and doing the same for your roleplaying games is one way of using RPG Ambience. Both moviegoing experiences and roleplaying sessions, however, actually start before the opening scene and end after the closing scene.</p>
@@ -369,8 +401,6 @@
 				<p>For a recent one-shot game <a href="http://www.bullypulpitgames.com/news/2011/03/01/march-playset-of-the-month-quest-for-the-golden-panda/">set in mythical China</a>, I ended the session with the well-known '70s song “Kung Fu Fighting” by Carl Douglas, also notably used in the movie <cite>Kung Fu Panda</cite>. It’s light-hearted, anachronistic, and downright silly, and using it in-game would have ruined the mood, but playing it after the adventure made perfect sense. If you’re not prepared to go that far, look for setting-appropriate music that reinforces the overall experience of the players, such as an upbeat orchestral composition for a session that saw the characters prevail in an epic battle.</p>
 
 				<p>Even if you put a lot of effort into selecting pre- and post-game music, it may not make an obvious difference at the gaming table itself. That’s alright, because the main goal of using pre- and post-music is to affect players subtly, or even subconsciously. If the players start to find themselves feeling that the gaming experience starts as soon as they enter the gaming room, and only ends just after they have left it, you’re doing things right.</p>
-
-				<p class="appendix"><a href="mailto:rpg.ambience@gmail.com">Send in your thoughts</a> about using pre- and post-game music and your comments might be featured in the article.</p>
 			
 			</div>
 		</content>
