@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-03-09T19:30:48.699Z</updated>
+	<updated>2014-04-15T19:19:15.519Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,32 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>Ambience of the future</title>
+		<id>http://blog.rpg-ambience.com/articles/future/</id>
+		<updated>2014-04-15T20:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<p>In keeping with the current trend of hyping futuristic technology, this post speculates on the ways in which ambience will be used around gaming tables in the future, some of them more realistic than others.</p>
+
+				<h3>Distributed ambience</h3>
+				<p>With sound and visuals spread out over all of the computers in a home, the entire gaming room can come alive. In a horror scenario, players can literally hear scary noises from the basement. If all players hook up their smartphones and tablets, combat sounds and spell effects caused by a character can originate from the physical location of that character’s player.</p>
+
+				<p>There is even more potential when going beyond mere speakers and monitors. If the room’s lighting is connected to the system, the entire room can go dark when the characters enter a dungeon, or be flooded with red light when they find themselves on the elemental plane of fire. Air conditioning and fans can be controlled to create weather effects, activating senses other than just sight and hearing.</p>
+
+				<h3>Augmented ambience</h3>
+				<p>With augmented reality technology, like that provided by advanced glasses, monitors, and projectors, the imaginary world can mix with the physical world around the gaming table. When roleplaying different characters, the players can put on virtual masks, turning into soldiers, elves, aliens, or anything else. In futuristic settings like Shadowrun, the augmentations can reflect what the characters are seeing, even integrating game mechanics to make the information both immersive and practical.</p>
+
+				<h3>Intelligent ambience</h3>
+				<p>With highly sophisticated artificial intelligence and machine learning algorithms, 3D-rendered artwork and synthesized orchestral music can be generated dynamically based on voice commands by the players and analysis of the story being told around the table. Ambience can be used with no preparation at all, creating a unique experience every time.</p>
+
+				<h3>Virtual ambience</h3>
+				<p>Combining all of the above into one futuristic whole, ambience effectively turns into a virtual reality environment that players experience together with their friends, in part dynamically generated and in part controlled by the players. If this is ultimately made possible, the inevitable question becomes: Are we still playing a tabletop roleplaying game?</p>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/future/"/>
+	</entry><entry>
 		<title>Using ambience to create campaign continuity</title>
 		<id>http://blog.rpg-ambience.com/articles/continuity/</id>
 		<updated>2014-03-09T20:00:00.000Z</updated>
