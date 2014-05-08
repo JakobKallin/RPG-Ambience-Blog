@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-04-15T19:19:15.519Z</updated>
+	<updated>2014-05-08T10:15:14.712Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,32 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>Solving group problems without expelling players</title>
+		<id>http://blog.rpg-ambience.com/articles/group-problems/</id>
+		<updated>2014-05-08T10:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<p>The <a href="http://blog.obsidianportal.com/player-wealth-custom-dice-spinelessly-ending-campaign/">latest episode of the Haste podcast</a> discusses various ways of handling problematic players and bad group dynamics. They suggest using a “spineless” method, such as letting a campaign fizzle out and quietly starting a new one with only part of the original group. This is contrasted with “spineful” methods, such as discussing the problems with the group and possibly expelling problematic players in-person. The spineful methods are held up as “the right way” but also pointed out as being too difficult for most gamemasters to actually implement.</p>
+
+				<p>Without going into the debate on spineless versus spineful approaches to dealing with these problems, I will suggest another approach that can be attempted both with and without a spine: changing systems. If the problems in your group are caused by otherwise well-meaning players who do things that go against the spirit of the game, they might be solved by moving to a game with a different spirit.</p>
+
+				<p>As an example, consider a player who loves to instigate in-game events, such as stealing from important NPCs or setting off blatant traps. This type of behavior isn’t necessarily a sign of a bad friend or a bad player (in fact, 4th edition <cite>Dungeons &amp; Dragons</cite> lists the “instigator” as one of the major player types), but it can still cause trouble for a group playing a traditional game of heroic fantasy.</p>
+
+				<p>Now consider switching from <cite>Dungeons &amp; Dragons</cite> to <a href="http://www.bullypulpitgames.com/games/fiasco/"><cite>Fiasco</cite></a>. The instigator will feel right at home without causing trouble for the other players, since <cite>Fiasco</cite> is game where such behavior does not interfere with the game and is in fact encouraged. If the rest of the group enjoys the new game as well, that’s a win-win situation for everybody involved.</p>
+
+				<p>An entire category of games that can solve some of these problems is GM-less games (of which <cite>Fiasco</cite> is one). Because these games actively involve all players at the table in the storytelling, and because there is no single authority figure to argue with, the game is more likely to be driven by discussion and consensus rather than individual decisions. When everybody participates on equal footing, players are also more likely to object to disruptive behavior, since there is no gamemaster that is expected to do it for them.</p>
+
+				<p>Yet another example of a game that can help a struggling group is <cite>Paranoia</cite>, which is mentioned in <a href="http://rpg.stackexchange.com/a/37062/2218">a recent RPG Stack Exchange question</a> touching on the same topic. In essence, <cite>Paranoia</cite> might be able to save a group that suffers from a lot of PC infighting, simply because <cite>Paranoia</cite> is a game where such behavior is expected.</p>
+
+				<p>All of that being said, I will point out that this advice assumes that all the players do indeed want to play a fun game together. If one or more players actively want to sabotage the game, then all bets are off, and changing systems are unlikely to make matters better.</p>
+
+				<p>If you are all on the same page, however, you might find that the philosophies of your chosen system are incompatible with your group dynamics and prevent you from truly enjoying the experience. With so many vastly different RPGs available, you have every reason and opportunity to pick one that matches your group’s dynamics.</p>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/group-problems/"/>
+	</entry><entry>
 		<title>Ambience of the future</title>
 		<id>http://blog.rpg-ambience.com/articles/future/</id>
 		<updated>2014-04-15T20:00:00.000Z</updated>
