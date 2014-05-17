@@ -219,6 +219,10 @@ article {
 		max-height: 15em;
 	}
 	
+	article figure img + img {
+		margin-left: 1em;
+	}
+	
 	article figure img.wide {
 		width: 100%;
 		height: auto;

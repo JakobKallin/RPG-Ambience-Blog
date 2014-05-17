@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-05-08T10:15:14.712Z</updated>
+	<updated>2014-05-17T10:34:14.382Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,37 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>Comparing the official Dungeons &amp; Dragons soundtracks</title>
+		<id>http://blog.rpg-ambience.com/articles/dnd-soundtracks/</id>
+		<updated>2014-05-17T10:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<figure>
+					<img src="/media/midnight-syndicate-dungeons-and-dragons.jpg" alt="The cover of Dungeons &amp; Dragons by Midnight Syndicate" /><!--
+					--><img src="/media/sharn-city-of-towers.jpg" alt="The cover of Sharn: City of Towers, which included the Shards of Eberron soundtrack by David P. Davidson" />
+				</figure>
+				
+				<p>Although Wizards of the Coast have been reluctant to promote technology as part of the official <cite>Dungeons &amp; Dragons</cite> experience—in part due to failed projects in the past—they have understood the potential of a great soundtrack.</p>
+
+				<p>Two official <cite>Dungeons &amp; Dragons</cite> soundtracks have been released, both in the 3rd edition era: <cite>Dungeons &amp; Dragons</cite> by Midnight Syndicate in 2003 and <cite>Shards of Eberron</cite> by David P. Davidson in 2004. Although released only one year apart, they clearly illustrate two fundamentally different approaches to creating soundtracks for gaming.</p>
+
+				<p><cite>Dungeons &amp; Dragons</cite> by Midnight Syndicate is intended as a form of official, general-purpose soundtrack that captures the essence of the eponymous game on one CD. <cite>Shards of Eberron</cite> by David P. Davidson, on the other hand, is meant to specifically bring the campaign world of Eberron to life, and was released together with the supplement <cite>Sharn: City of Towers</cite>.</p>
+
+				<p>The most immediate difference between the two soundtracks is their instrumentation. <cite>Dungeons &amp; Dragons</cite> consists mostly, if not entirely, of digital instruments used to recreate the feeling of a traditional orchestra. <cite>Shards of Eberron</cite>, on the other hand, was recorded by an actual orchestra, yielding what the promotional material accurately describes as “cinema-quality” music. While Midnight Syndicate handle their tools well, most would agree that a real orchestra carries more weight and generally sounds more interesting than a digital equivalent.</p>
+
+				<p>This brings us to another significant difference between the two soundtracks: their musical structure. In the same way that the orchestra in <cite>Shards of Eberron</cite> provides the more interesting sound, its tracks have a varied, unpredictable structure, just as the tracks in most movie scores. By contrast, the tracks in <cite>Dungeons &amp; Dragons</cite> are generally uniform and predictable, similar to the scores of most video games. This difference is even implied by the number of tracks and their lengths: <cite>Dungeons &amp; Dragons</cite> contains 24 tracks, most of which are less than four minutes long, whereas <cite>Shards of Eberron</cite> contains only 8 tracks, all but one of which are more than four minutes long.</p>
+
+				<p>The differences described above already hint at how these two soundtracks can be used, and which contexts they are appropriate for.</p>
+
+				<p><cite>Shards of Eberron</cite>, with its genuinely orchestral sound and dynamic structure, can evoke a unique mood and very accurately convey the exact feeling that the composer wanted to convey. On the other hand, the lack of uniformity within each track makes them difficult to drop into a gaming session, where being able to enforce the same mood throughout a scene is often important. For these reasons, <cite>Shards of Eberron</cite> is most effective outside of games, perhaps when pitching the campaign setting to your gaming group, or as inspirational background music while you are planning an adventure.</p>
+
+				<p>Conversely, <cite>Dungeons &amp; Dragons</cite>, with its large selection of shorter, more focused tracks, is most effective during gaming sessions. Each track clearly conveys a specific mood, and hearing them in the background of an immersive game makes the lack of a real orchestra less noticeable. While it may not have the same potential to uniquely connect your group to the setting, its pragmatic design makes it a valuable resource nonetheless.</p>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/dnd-soundtracks/"/>
+	</entry><entry>
 		<title>Solving group problems without expelling players</title>
 		<id>http://blog.rpg-ambience.com/articles/group-problems/</id>
 		<updated>2014-05-08T10:00:00.000Z</updated>
