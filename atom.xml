@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2014-11-02T00:55:33.337Z</updated>
+	<updated>2014-11-25T20:32:55.848Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,29 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>Music recommendation: Tabletop Audio</title>
+		<id>http://blog.rpg-ambience.com/music/tabletop-audio/</id>
+		<updated>2014-11-25T20:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<figure>
+					<a href="http://tabletopaudio.com/"><img src="/media/tabletop-audio.jpg" alt="The logo of Tabletop Audio" /></a>
+				</figure>
+				
+				<p><a href="http://tabletopaudio.com/"><cite>Tabletop Audio</cite></a> is a large and growing collection of free ambience audio for roleplaying games. While some of it contains music, the focus is squarely on environmental sounds. Each track is ten minutes long, which is usually be enough to hide obvious looping. The sounds themselves are of high quality.</p>
+
+				<p>While the <cite>Tabletop Audio</cite> website provides an audio player that can be used directly in the browser, it also offers the audio files for download, making them easy to use in other applications as well.</p>
+
+				<p><cite>Tabletop Audio</cite> is offered as a cost-free and ad-free service. The creator accepts voluntary donations <a href="http://www.patreon.com/tabletopaudio">on Patreon</a>.</p>
+				
+				<h2>Suggested scenes</h2>
+				<p>Each track in <cite>Tabletop Audio</cite> is a complete scene in itself, although those without music can be successfully complemented with music of your own.</p>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/music/tabletop-audio/"/>
+	</entry><entry>
 		<title>Pitfalls of using ambience</title>
 		<id>http://blog.rpg-ambience.com/articles/pitfalls/</id>
 		<updated>2014-11-02T20:00:00.000Z</updated>

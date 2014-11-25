@@ -229,6 +229,10 @@ article {
 		max-height: none;
 	}
 	
+	article figure a {
+		display: inline-block;
+	}
+	
 	article p.appendix {
 		text-align: center;
 		font-style: italic;
