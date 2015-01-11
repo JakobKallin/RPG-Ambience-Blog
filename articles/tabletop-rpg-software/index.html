@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>The problem with tabletop RPG software | RPG Ambience Blog</title>
+		<meta name="description" content="Advice on bringing your games to life with the RPG Ambience media player.">
+		<link rel="stylesheet" href="/css/base.css">
+		
+		<link rel="icon" type="image/png" href="http://rpg-ambience.com/images/icon.png">
+	</head>
+	<body>
+		<header>
+			<p><a href="/">RPG Ambience Blog</a></p><!--
+			--><p><a href="/">Advice on bringing your games to life with the RPG Ambience media player</a></p><!--
+			--><p><a href="http://rpg-ambience.com/">Try RPG Ambience</a></p>
+		</header>
+		<article>
+			
+	
+	<h1>The problem with tabletop RPG software</h1>
+	
+	<p class="publication-date">Published on <time datetime="2015-01-11T20:00:00.000Z">January 11th, 2015</time></p>
+	
+	
+				<p>Tabletop RPG software is a troubled business, as evidenced by the failure of digital tools for third and fourth edition <cite>Dungeons &amp; Dragons</cite>, the cancellation of Dungeonscape for fifth edition <cite>Dungeons &amp; Dragons</cite>, the current problems with Paizo Gamespace for <cite>Pathfinder</cite>, and numerous other projects that either were delayed, failed, or never received funding to begin with.</p>
+
+				<p>Part of this is because software development of any type is difficult, and even more so for companies whose primary experience is in publishing. Even when projects successfully ship, however, there is a hugely important factor that can cause them to still fail. This potentially gamebreaking factor is one of the distinguishing features of the hobby: house rules.</p>
+				
+				<h3>The problem</h3>
+				<p>To put it simply, the presence of house rules in tabletop RPGs, and the fact that practically every gaming group uses their very own set of such rules, means that software has to allow players to add their own house rules in order to be useful—but actually doing so is an impossibly complex task.</p>
+
+				<p>Remember that house rules are not just about inserting new game elements that mostly mimic existing elements, such as adding a new skill to <cite>Dungeons &amp; Dragons</cite>. They are also about altering the core rules of the game, such as adding completely new mechanics for spell preparation. Handling this type of house rule is a much more involved process than simply allowing the player to enter a skill name into a text field.</p>
+				
+				<p>This problem is apparent even for minor changes, such as adding action points to a system that doesn’t have it. A change like this would require new domain logic, new interface elements, new storage formats, and any number of other significant changes to the software.</p>
+
+				<p>That being said, we could include all types of house rules if we added support for our software to perform arbitrary logic based on requirements specified by humans. There’s something odd about that feature, though: it’s the very definition of programming! In other words, adding true support for house rules effectively requires us to add a scripting language to our software—and doing so would automatically exclude the vast majority of players, in the same way that all software requiring programming knowledge excludes most users. The only way around this would be to invent a form of programming that doesn’t require users to spend dozens of hours learning to program in any conventional sense. That’s a noble goal, but utterly unrealistic to achieve for a small project in a niche market.</p>
+
+				<p>Given that we cannot realistically add support for arbitrary house rules, we inevitably get a mismatch between the software’s rules and the gaming group’s rules. For every house rule that a group uses, the mismatch increases. When it becomes too large, the software is effectively useless. Even before that, the mismatch can make the software tedious and difficult to use, as the user constantly has to work against the software rather than with it. An analogy is using a word processor for graphical design: it can be used to create layouts but usually in a convoluted way, and some layouts cannot be created at all.</p>
+
+				<p>In essence, the problem is this: Every time the players use different rules than the software, the software becomes an obstacle. Since we know that practically all players will use house rules, we also know that the software will become an obstacle to practically all players, to varying degrees. At best, the software is only useful sometimes. At worst, the software is never really useful at all.</p>
+
+				<h3>The solution</h3>
+				<p>If we take a step back, however, we realize that house rules are only a problem when they conflict with the software’s rules. The solution is almost embarrassingly simple: not putting rules in the software to begin with!</p>
+
+				<p>By keeping rules out of our software as much as possible, we free ourselves to focus on software that supports various aspects of the game rather than dictating how the game itself should be played. Great examples of this include:</p>
+
+				<ul>
+					<li>Virtual tabletops that only deal with positioning and other generic mechanics.</li>
+					<li>Campaign management software that allows players to describe and organize whatever information is relevant to their game.</li>
+					<li>Randomizers such as name, city, or plot generators.</li>
+				</ul>
+
+				<p>Due to demand, we will continue to see rules-heavy applications in the tabletop RPG world, a notable example being character generators. While some of these will be successful, they will always struggle with the problem of house rules. Rules-light software, on the other hand, will continue to thrive without having to worry about house rules, and will potentially be around for decades, enjoyed by roleplayers of any system and any edition.</p>
+			
+	
+	<p class="appendix">If you have comments on this post, <a href="mailto:rpg.ambience@gmail.com">send them in</a> and they might be featured on the blog.</p>
+
+		</article>
+		<footer>
+			<ul>
+				<li><a href="/#about">About</a></li><!--
+				--><li><a href="mailto:rpg.ambience@gmail.com">Contact</a></li><!--
+				--><li><a href="/atom.xml">Feed</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
