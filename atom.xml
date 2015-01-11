@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2015-01-11T17:51:44.464Z</updated>
+	<updated>2015-01-11T18:09:23.315Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,7 +15,7 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
-		<title>The problem with tabletop RPG software</title>
+		<title>Off-topic: The problem with tabletop RPG software</title>
 		<id>http://blog.rpg-ambience.com/articles/tabletop-rpg-software/</id>
 		<updated>2015-01-11T20:00:00.000Z</updated>
 		<content type="xhtml">
@@ -186,7 +186,7 @@
 		</content>
 		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/dnd-soundtracks/"/>
 	</entry><entry>
-		<title>Solving group problems without expelling players</title>
+		<title>Off-topic: Solving group problems without expelling players</title>
 		<id>http://blog.rpg-ambience.com/articles/group-problems/</id>
 		<updated>2014-05-08T10:00:00.000Z</updated>
 		<content type="xhtml">
