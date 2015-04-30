@@ -8,7 +8,7 @@
 	font-style: normal;
 }
 
-i, cite, dfn {
+i, cite, dfn, em {
 	font-style: italic;
 }
 
@@ -254,7 +254,7 @@ article {
 		display: block;
 	}
 	
-	h1  span.category {
+	h1 span.category {
 		font-size: 0.5em;
 		color: hsl(0, 0%, 50%);
 		text-transform: uppercase;
@@ -281,6 +281,14 @@ article {
 	article figcaption {
 		font-style: italic;
 		color: hsl(0, 0%, 50%);
+	}
+	
+	article .footnote {
+		font-size: 0.875em;
+		color: hsl(0, 0%, 50%);
+		border-top: 1px solid hsl(0, 0%, 25%);
+		padding-top: 1em;
+		margin-top: 1em;
 	}
 
 footer {

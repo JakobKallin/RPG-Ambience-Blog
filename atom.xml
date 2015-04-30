@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2015-04-16T18:55:53.351Z</updated>
+	<updated>2015-04-30T22:01:12.871Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,32 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>The design goals of RPG Ambience</title>
+		<id>http://blog.rpg-ambience.com/articles/design-goals/</id>
+		<updated>2015-04-30T20:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<p>This blog post describes the design goals of RPG Ambience, primarily to shed some light on why I may or may not prioritize a given feature request. In order to understand the reasoning behind these goals, we need to take a brief look at the history of RPG Ambience and what came before it.</p>
+				
+				<p>I have used ambience in my games for roughly ten years. During this time, the ways in which I use ambience have changed significantly. When I started out, my only goal (and the only one easily achieved with the equipment I had at the time) was to loop background music during my games. After I first started developing RPG Ambience roughly five years ago<a href="#development-history">*</a>, I started using images in addition to music. Eventually, I began using one-shot images and sound effects in addition to background images and music. Currently, I’m exploring ways to add environmental soundscapes alongside this. In the future, as “intelligent home” technology becomes more affordable and easier to use, I plan on also controlling the lighting around the gaming table, along with other aspects of the gaming environment that can be hooked into a computer (as mentioned in a previous blog post on <a href="/articles/future/">ambience of the future</a>).</p>
+
+				<p>Apart from finding the need for new features, I have also significantly varied how I structure my RPG Ambience adventures. For sessions based mainly on GM preparation, I have often used a smaller collection of one-shot scenes depicting specific locations or characters that the PCs come across. For sessions driven mostly or entirely by improvisation, my adventures have contained a larger number of scenes with much more generic content, intended more as a smörgåsbord than a script. For some sessions, whether due to lack of time or lack of need, my adventures have simply contained a single <a href="/articles/iconic-images/">iconic image</a> accompanied by music.</p>
+
+				<p>What’s common to all of this is that my use of ambience has changed in ways that I couldn’t predict five years ago—and I’m just one user. When we take into account the diverse experiences of other people who have used RPG Ambience over the years, it becomes clear that finding a single “right way” of using ambience in games is not realistic. In order to stay relevant, software like RPG Ambience that wants to appeal to many different users and enable creativity must allow users to create their own workflows rather than dictating a single workflow for them.</p>
+
+				<p>The design goal of RPG Ambience can thus be phrased as follows: <em>To provide users with tools for adding ambience to their games in the way that best suits them, giving up some simplicity in favor of flexibility.</em></p>
+
+				<p>We can see a concrete example of what this design goal means in a common type of tabletop RPG software: character generators. The simplest character generators are those that work for a single ruleset, and only require users to fill in fields in a form. At the other extreme, the most flexible character generators are digital spreadsheets (such as Excel and OpenOffice) allowing users to define their own logic and constraints, making them suitable for any system and any house rule—but more complex. RPG Ambience is intended to be closer to the spreadsheet than the form: providing users with more freedom at the cost of some convenience.</p>
+
+				<p>To be clear, for every given feature that is implemented, I will strive to make it as simple to use as possible. When I select what features to implement, however, I will not prioritize the simplest ones but rather those that will become the best building blocks for users to combine in whatever way best suits them.</p>
+				
+				<p class="footnote" id="development-history">* The first public version of RPG Ambience was published in 2011, but I had been developing prototypes for personal use before that.</p>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/design-goals/"/>
+	</entry><entry>
 		<title>What do you want to see in the next version of RPG Ambience?</title>
 		<id>http://blog.rpg-ambience.com/articles/next-version/</id>
 		<updated>2015-04-16T20:00:00.000Z</updated>
@@ -39,7 +65,7 @@
 				
 				<p>In addition to these incremental changes, I have been working on designs for entirely new features, including <a href="https://github.com/JakobKallin/RPG-Ambience/issues/64">network ambience</a> (mentioned in <a href="/articles/future/">a previous blog post</a>) and <a href="https://github.com/JakobKallin/RPG-Ambience/issues/30">sequences</a> (or scripts, though not in the sense of programming).</p>
 				
-				<p>I might not be able to implement every feature request, in part because of time and resource constraints and in part because they might conflict with the design goals behind RPG Ambience (which I will detail in a future blog post), but I will consider all of them and gladly discuss them with you.</p>
+				<p>I might not be able to implement every feature request, in part because of time and resource constraints and in part because they might conflict with the <a href="/articles/design-goals/">design goals of RPG Ambience</a>, but I will consider all of them and gladly discuss them with you.</p>
 				
 				<p>I have not set a release date for this new version and will not set one, even an estimate, until I’m sure that I can follow through with it. Although my available time is limited by a full-time job, I regularly use RPG Ambience for my own games and have every interest in improving it when I can. Spending time getting the design right will make the ultimate implementation work much easier, and gathering feedback from you is part of this process.</p>
 				
