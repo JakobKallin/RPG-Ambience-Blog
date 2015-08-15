@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2015-05-08T20:41:51.630Z</updated>
+	<updated>2015-08-15T21:02:43.848Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,76 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>Music recommendation: Beyond Good &amp; Evil (science fiction)</title>
+		<id>http://blog.rpg-ambience.com/music/beyond-good-and-evil/</id>
+		<updated>2015-08-15T20:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<figure>
+					<img src="/media/beyond-good-and-evil.jpg" alt="Cover art for Beyond Good &amp; Evil" />
+				</figure>
+				
+				<p>The twelve year old multiplatform game <cite>Beyond Good &amp; Evil</cite> became a cult classic by taking familiar elements from many genres and twisting them just enough to create something unique, charming, and quirky. Its soundtrack, composed by Christophe Héral, skillfully does the same thing, making it a brilliant resource for a campaign that can accept the quirks and turn them into strengths.</p>
+				
+				<p>The calm tracks are largely piano-based and have a partially oriental feel. The mysterious tracks, based mainly on the caves and “dungeons” in the game, sound decidedly subterranean, even with echoes in some parts. The action tracks are more electronic than the rest of the soundtrack, and some of them mix in bestial noises meant to convey the alien nature of the “DomZ” serving as the game’s antagonists—making these tracks especially important to fit into the specific campaign before using them. Finally, the distinct “Akuda House Propaganda” and “Fun and Mini-Games” tracks can be used to great effect provided you have complete player buy-in, as they represent <cite>Beyond Good &amp; Evil</cite> at its very quirkiest.</p>
+				
+				<p>Those with access to the actual audio tracks from the game, as opposed to the official soundtrack, can find some additional tracks as well as some tracks split into more files than on the soundtrack.</p>
+				
+				<h2>Suggested scenes</h2>
+				
+				<h3>Calm</h3>
+				<ol>
+					<li value="3">Home Sweet Home</li>
+					<li value="4">Hyllian Suite</li>
+				</ol>
+				
+				<h3>Mystery</h3>
+				<ol>
+					<li value="7">Mineshaft Madness</li>
+					<li value="11">Don’t Fear the Reaper</li>
+					<li value="20">Heart of Darkness</li>
+				</ol>
+				
+				<h3>Stealth</h3>
+				<ol>
+					<li value="23">Behind Enemy Lines</li>
+				</ol>
+				
+				<h3>Action</h3>
+				<ol>
+					<li value="12">Fear the Reaper</li>
+					<li value="19">Violent Jade Suite</li>
+					<li value="24">Free Your Mind</li>
+					<li value="29">In Hot Pursuit</li>
+					<li value="30">Sins of the Father</li>
+				</ol>
+				
+				<h3>Epic action</h3>
+				<ol>
+					<li value="2">Dancing with DomZ</li>
+				</ol>
+				
+				<h3>Emotional</h3>
+				<ol>
+					<li value="25">Thoughtful Reflections</li>
+				</ol>
+				
+				<h3>Race</h3>
+				<ol>
+					<li value="13">Fun and Mini-Games</li>
+				</ol>
+				
+				<h3>Bar</h3>
+				<ol>
+					<li value="9">Fun and Mini-Games</li>
+					<li value="14">Funky Bar 100</li>
+				</ol>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/music/beyond-good-and-evil/"/>
+	</entry><entry>
 		<title>Partial audio support on mobile browsers</title>
 		<id>http://blog.rpg-ambience.com/articles/mobile-audio-support/</id>
 		<updated>2015-05-08T20:00:00.000Z</updated>
