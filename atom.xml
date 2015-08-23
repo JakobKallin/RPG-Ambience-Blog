@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 	<title>RPG Ambience Blog</title>
 	<id>http://blog.rpg-ambience.com/</id>
-	<updated>2015-08-15T21:02:43.848Z</updated>
+	<updated>2015-08-23T11:33:31.838Z</updated>
 	
 	<link rel="self" href="http://blog.rpg-ambience.com/atom.xml"/>
 	<link rel="related" href="http://blog.rpg-ambience.com/"/>
@@ -15,6 +15,44 @@
 	<subtitle>Advice on bringing your games to life with the RPG Ambience media player</subtitle>
 	
 	<entry>
+		<title>Why Fiasco playsets are a great innovation</title>
+		<id>http://blog.rpg-ambience.com/articles/playsets/</id>
+		<updated>2015-08-23T20:00:00.000Z</updated>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				
+				<figure>
+					<img src="/media/transatlantic.jpg" alt="Cover art for the Fiasco playset Transatlantic" /><!--
+					--><img src="/media/quest-for-the-golden-panda.jpg" alt="Cover art for the Fiasco playset Quest for the Golden Panda" /><!--
+					--><img src="/media/dc73.jpg" alt="Cover art for the Fiasco playset DC73" />
+				</figure>
+				
+				<p>Most games with a GM, including <cite>Dungeons &amp; Dragons</cite> and other games in the same tradition, use adventure modules to provide the plot and setting for a gaming session. Conversely, most games without a GM use some form of collaborative improvisation for the same purpose. The GM-less game <cite>Fiasco</cite>, on the other hand, uses a hybrid of the two that in my mind is one of the greatest innovations in modern roleplaying: the playset.</p>
+
+				<p>A playset is a set of four lists describing different aspects of a <cite>Fiasco</cite> scenario: relationships, needs, locations, and objects. Each list contains 36 items, for a total of 144 individual items. Players set up the plot and setting for a session by selecting items from the lists in a partially random, partially collaborative process. Once the setup is done, players have the starting point for the session, a sense of the story’s direction, and a general understanding of the setting. They are effectively a cross between adventure seeds and adventure modules, open enough to let players create their own story but detailed enough that players don’t have to come up with everything from scratch.</p>
+
+				<p><cite>Fiasco</cite> became a runaway success on the indie roleplaying scene, most likely due to several combined factors. One of these, I’m confident, was its use of playsets.</p>
+				
+				<h3>The impact of playsets</h3>
+				
+				<p>Without playsets, <cite>Fiasco</cite> would still be an easy-to-learn, casual game that turns the definition of “winning” on its head—but many players would be at a loss as to how to actually get started playing it, since they would have no scenario to play. Just like introductory adventures in <cite>Dungeons &amp; Dragons</cite> rulebooks, playsets invite groups to start playing without worrying about all the details of plot and setting—and without all the reading required to prepare a published adventure. Playsets very effectively achieve a middle ground between “lots of preparation” and “lots of improvisation” that inspires enough people to actually give the game a shot rather than just putting it on their to-play list.</p>
+
+				<p>The fact that <cite>Fiasco</cite> playsets achieve this middle ground has a much more profound effect than it first may seem. Thanks to their compact format, each one clearly communicates a single genre, mood, and idea, making clear what it offers and very quickly conjuring up ideas in the player’s head about what kind of session it can provide. Unlike the library of any game using adventure modules, the library of <cite>Fiasco</cite> playsets can be casually browsed like an on-demand movie library, players can quickly select a playset that excites them, and a game can be started just as easily and quickly as pressing the play button.</p>
+				
+				<p>The end result of this is that <cite>Fiasco</cite> becomes a game that you both can and want to play often. While my own gaming group enjoys many games, both with and without GMs, <cite>Fiasco</cite> is by far the one that we have played the most. That’s not because we think <cite>Fiasco</cite> is much better than all of the other games, but rather because the playset format provides us with a conveniently packaged, guaranteed night of enjoyment, whether we have selected the playset a week in advance or don’t even have one in mind when we sit down at the table.</p>
+
+				<h3>The future of playsets</h3>
+
+				<p>I believe that the idea of playsets can successfully be applied to many other games, provided that they are adapted to match that game’s mechanics and setting. While playsets for a hypothetical <cite>Star Wars</cite> roleplaying game might not focus on needs and relationships, it is easy to imagine a list of iconic elements in the galaxy far, far away containing such things as asteroid field chases, unpaid debts, and exiled Jedi masters. <cite>Star Wars</cite> games already include these elements anyway, so putting them in playsets would free players from the burden of listing these ideas all on their own, while still allowing for a great deal of freedom in how to use them.</p>
+				
+				<p>Another exciting possibility is to “hack” playsets, taking one intended for <cite>Fiasco</cite> and using it in a different game. In a Cthulhu game, the players could use relationships and needs to flesh out their characters while the GM could use objects and locations as the basis for clues.</p>
+				
+				<p>Roleplaying games have traditionally been difficult to get into because they lack the “single night of fun” quality that can be found in other forms of entertainment, like video games and movies. I believe that playsets offer steps toward a solution to this, and hope to see more of them in the future of our hobby.</p>
+			
+			</div>
+		</content>
+		<link rel="alternate" href="http://blog.rpg-ambience.com/articles/playsets/"/>
+	</entry><entry>
 		<title>Music recommendation: Beyond Good &amp; Evil (science fiction)</title>
 		<id>http://blog.rpg-ambience.com/music/beyond-good-and-evil/</id>
 		<updated>2015-08-15T20:00:00.000Z</updated>
