@@ -219,7 +219,10 @@ article {
 		max-height: 15em;
 	}
 	
-	article figure img + img {
+	article figure img + img,
+	article figure a + a,
+	article figure img + a,
+	article figure a + img {
 		margin-left: 1em;
 	}
 	
@@ -258,6 +261,11 @@ article {
 		font-size: 0.5em;
 		color: hsl(0, 0%, 50%);
 		text-transform: uppercase;
+	}
+	
+	.wide-gallery img {
+		height: 8rem;
+		vertical-align: middle;
 	}
 	
 	article div.side-by-side {
