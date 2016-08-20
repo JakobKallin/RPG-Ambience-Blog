@@ -12,6 +12,10 @@ i, cite, dfn, em {
 	font-style: italic;
 }
 
+strong {
+	font-weight: bold;
+}
+
 q[title] {
 	cursor: help;
 	border-bottom: 1px dotted hsl(0, 0%, 50%);
@@ -67,34 +71,34 @@ header {
 	font-family: Constantia, Georgia, serif;
 	line-height: 2em;
 }
-	
+
 	header p {
 		display: inline-block;
 	}
-	
+
 	header > * + * {
 		margin-left: 1em;
 	}
-	
+
 	header p:first-child {
 		font-size: 1.5em;
 	}
-	
+
 	header p:nth-child(2) {
 		font-style: italic;
 		font-size: 1em;
 		color: hsl(0, 0%, 75%);
 	}
-	
+
 	header a {
 		color: inherit;
 		text-decoration: none;
 	}
-	
+
 	header a:hover {
 		text-decoration: underline;
 	}
-	
+
 	header a[href^='http://'] {
 		font-style: italic;
 		padding: 0.35em;
@@ -117,11 +121,11 @@ header {
 		box-shadow: 0 0 0.5em black;
 		text-decoration: none;
 	}
-	
+
 	header a[href^='http://']:hover {
 		background-color: hsl(220, 100%, 45%);
 	}
-	
+
 	header a[href^='http://']:before {
 		content: "» ";
 	}
@@ -145,46 +149,46 @@ article {
 	padding-top: 3em;
 	color: hsl(0, 0%, 85%);
 }
-	
+
 	article h1 {
 		font-size: 2.5em;
 		line-height: 1em;
 		text-align: center;
 	}
-	
+
 	article h1, article h2, article h3, article p, article ol, article ul, article figure {
 		max-width: 45rem;
 		margin-left: auto;
 		margin-right: auto;
 	}
-	
+
 	article h1, article h2, article h3 {
 		font-family: Constantia, Georgia, serif;
 		color: white;
 	}
-	
+
 	article h2 {
 		font-size: 1.5em;
 		margin-top: 1.5em;
 	}
-	
+
 	article h3 {
 		font-size: 1.25em;
 		margin-top: 1.5em;
 		font-style: italic;
 	}
-	
+
 	article p, article ol, article ul {
 		margin-top: 1em;
 		margin-bottom: 1em;
 		line-height: 1.5em;
 	}
-	
+
 	article ol, article ul {
 		padding-left: 3em;
 		padding-right: 3em;
 	}
-	
+
 	article p.publication-date {
 		text-align: center;
 		font-size: 0.875em;
@@ -197,51 +201,51 @@ article {
 		padding-top: 0.5em;
 		padding-bottom: 0.5em;
 	}
-	
+
 	article a {
 		color: hsl(200, 100%, 50%);
 	}
-	
+
 	article a:visited {
 		color: hsl(220, 50%, 50%);
 	}
-	
+
 	article figure {
 		margin-top: 1.5em;
 		margin-bottom: 1.5em;
 		text-align: center;
 	}
-	
+
 	article figure img {
 		display: inline-block;
 		max-width: 100%;
 		height: auto;
 		max-height: 15em;
 	}
-	
+
 	article figure img + img,
 	article figure a + a,
 	article figure img + a,
 	article figure a + img {
 		margin-left: 1em;
 	}
-	
+
 	article figure img.wide {
 		width: 100%;
 		height: auto;
 		max-height: none;
 	}
-	
+
 	article figure a {
 		display: inline-block;
 	}
-	
+
 	article p.appendix {
 		text-align: center;
 		font-style: italic;
 		color: hsl(0, 0%, 50%);
 	}
-	
+
 	article p.appendix:before {
 		display: block;
 		margin-top: 2rem;
@@ -252,45 +256,45 @@ article {
 		font-style: normal;
 		color: hsl(0, 0%, 35%);
 	}
-	
+
 	h1 span.category, h1 span.title {
 		display: block;
 	}
-	
+
 	h1 span.category {
 		font-size: 0.5em;
 		color: hsl(0, 0%, 50%);
 		text-transform: uppercase;
 	}
-	
+
 	.wide-gallery img {
 		height: 8rem;
 		vertical-align: middle;
 	}
-	
+
 	article div.side-by-side {
 		text-align: center;
 	}
-	
+
 	article div.side-by-side > * {
 		display: inline-block;
 	}
-	
+
 	article div.side-by-side figure {
 		margin: 0 1em;
 	}
-	
+
 	article div.side-by-side figure > * {
 		display: block;
 		margin-top: 1em;
 		margin-bottom: 1em;
 	}
-	
+
 	article figcaption {
 		font-style: italic;
 		color: hsl(0, 0%, 50%);
 	}
-	
+
 	article .footnote {
 		font-size: 0.875em;
 		color: hsl(0, 0%, 50%);
@@ -320,15 +324,15 @@ footer {
 	background-position: center top;
 	line-height: 4em;
 }
-	
+
 	footer li {
 		display: inline;
 	}
-	
+
 	footer li + li {
 		margin-left: 1em;
 	}
-	
+
 	footer a {
 		color: hsl(200, 100%, 50%);
 	}
